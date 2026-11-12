@@ -1,7 +1,7 @@
 {
   "id": "community.rm.familycatalogs",
   "version": "1.0.0",
-  "name": "Family Catalogs",
+  "name": "Custom Catalogs",
   "description": "Fifteen family-leaning catalogs in one add-on: trending (movies + series), old and new Bollywood, westerns, martial arts, action, fighting, a family-sitcom mix, romance, comedy movies and shows, classic comedy, nature and animals. Anchor titles stay put; rotating titles refresh monthly.",
   "resources": [
     "catalog"
