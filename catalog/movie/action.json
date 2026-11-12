@@ -1,0 +1,204 @@
+{
+  "metas": [
+    {
+      "id": "tt0095016",
+      "type": "movie",
+      "name": "Die Hard",
+      "releaseInfo": "1988",
+      "description": "The blueprint for every action film after it.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0103064",
+      "type": "movie",
+      "name": "Terminator 2: Judgment Day",
+      "releaseInfo": "1991",
+      "description": "Arnie protects, machines clash.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0111257",
+      "type": "movie",
+      "name": "Speed",
+      "releaseInfo": "1994",
+      "description": "A bus, a bomb, no slowing down.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0117500",
+      "type": "movie",
+      "name": "The Rock",
+      "releaseInfo": "1996",
+      "description": "Connery & Cage break into Alcatraz.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0172495",
+      "type": "movie",
+      "name": "Gladiator",
+      "releaseInfo": "2000",
+      "description": "“Are you not entertained?”",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0381061",
+      "type": "movie",
+      "name": "Casino Royale",
+      "releaseInfo": "2006",
+      "description": "Daniel Craig's brutal Bond debut.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0468569",
+      "type": "movie",
+      "name": "The Dark Knight",
+      "releaseInfo": "2008",
+      "description": "Batman vs. the Joker — the genre's peak.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt1074638",
+      "type": "movie",
+      "name": "Skyfall",
+      "releaseInfo": "2012",
+      "description": "The most beautiful Bond film.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt1392190",
+      "type": "movie",
+      "name": "Mad Max: Fury Road",
+      "releaseInfo": "2015",
+      "description": "Two hours of pure chase.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt4912910",
+      "type": "movie",
+      "name": "Mission: Impossible – Fallout",
+      "releaseInfo": "2018",
+      "description": "Cruise runs, flies, and falls — for real.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt10366206",
+      "type": "movie",
+      "name": "John Wick: Chapter 4",
+      "releaseInfo": "2023",
+      "description": "Keanu's operatic gun-fu finale (so far).",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0088247",
+      "type": "movie",
+      "name": "The Terminator",
+      "releaseInfo": "1984",
+      "description": "“I'll be back.” Where it all began.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0093409",
+      "type": "movie",
+      "name": "Lethal Weapon",
+      "releaseInfo": "1987",
+      "description": "Riggs & Murtaugh invent the buddy-cop era.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0113189",
+      "type": "movie",
+      "name": "GoldenEye",
+      "releaseInfo": "1995",
+      "description": "Brosnan's Bond debut — tank chase included.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0119094",
+      "type": "movie",
+      "name": "Face/Off",
+      "releaseInfo": "1997",
+      "description": "Travolta & Cage swap faces and lives.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0133093",
+      "type": "movie",
+      "name": "The Matrix",
+      "releaseInfo": "1999",
+      "description": "The film that rewired action forever.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0266987",
+      "type": "movie",
+      "name": "The Bourne Identity",
+      "releaseInfo": "2002",
+      "description": "Jason Bourne wakes up with no memory.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0936501",
+      "type": "movie",
+      "name": "Taken",
+      "releaseInfo": "2008",
+      "description": "Liam Neeson's very particular set of skills.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt0848228",
+      "type": "movie",
+      "name": "The Avengers",
+      "releaseInfo": "2012",
+      "description": "The team-up that changed blockbusters.",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt2911666",
+      "type": "movie",
+      "name": "John Wick",
+      "releaseInfo": "2014",
+      "description": "It started with a puppy.",
+      "genres": [
+        "Action"
+      ]
+    }
+  ]
+}

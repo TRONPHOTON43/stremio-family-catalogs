@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt2788316",
+      "type": "series",
+      "name": "Shōgun",
+      "releaseInfo": "2024",
+      "description": "The most talked-about series of 2024.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "releaseInfo": "2024",
+      "description": "The wasteland hit — funny, wild, huge.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt13443470",
+      "type": "series",
+      "name": "Wednesday",
+      "releaseInfo": "2022",
+      "description": "Wednesday Addams at Nevermore Academy.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "releaseInfo": "2020",
+      "description": "Feel-good coaching comedy — a parents' favorite.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt11691774",
+      "type": "series",
+      "name": "Only Murders in the Building",
+      "releaseInfo": "2021",
+      "description": "Cozy true-crime comedy with Martin & Short.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "releaseInfo": "2022",
+      "description": "The work/life thriller everyone debates.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt14452776",
+      "type": "series",
+      "name": "The Bear",
+      "releaseInfo": "2022",
+      "description": "A Chicago sandwich shop with big dreams and bigger stress.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt9018736",
+      "type": "series",
+      "name": "Avatar: The Last Airbender",
+      "releaseInfo": "2024",
+      "description": "The live-action take on the beloved cartoon.",
+      "genres": [
+        "Popular"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "metas": [
+    {
+      "id": "tt0120783",
+      "type": "movie",
+      "name": "The Parent Trap",
+      "releaseInfo": "1998",
+      "description": "Twin sisters swap lives to reunite Mom & Dad.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0349205",
+      "type": "movie",
+      "name": "Cheaper by the Dozen",
+      "releaseInfo": "2003",
+      "description": "Your reference film — twelve kids, one dad.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0317303",
+      "type": "movie",
+      "name": "Daddy Day Care",
+      "releaseInfo": "2003",
+      "description": "Eddie Murphy opens a daycare.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0322330",
+      "type": "movie",
+      "name": "Freaky Friday",
+      "releaseInfo": "2003",
+      "description": "Mom and daughter swap bodies.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0368578",
+      "type": "movie",
+      "name": "Are We There Yet?",
+      "releaseInfo": "2005",
+      "description": "Ice Cube's road trip from hell (family edition).",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0395699",
+      "type": "movie",
+      "name": "The Pacifier",
+      "releaseInfo": "2005",
+      "description": "Vin Diesel, Navy SEAL… babysitter.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0452598",
+      "type": "movie",
+      "name": "Cheaper by the Dozen 2",
+      "releaseInfo": "2005",
+      "description": "The Bakers vs. the Murtaughs at the lake.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0449089",
+      "type": "movie",
+      "name": "RV",
+      "releaseInfo": "2006",
+      "description": "Robin Williams takes the family on the road.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt1033575",
+      "type": "movie",
+      "name": "We Bought a Zoo",
+      "releaseInfo": "2011",
+      "description": "Matt Damon buys a zoo, heals a family.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt1528854",
+      "type": "movie",
+      "name": "Daddy's Home",
+      "releaseInfo": "2015",
+      "description": "Stepdad vs. dad — Ferrell & Wahlberg.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt7401588",
+      "type": "movie",
+      "name": "Instant Family",
+      "releaseInfo": "2018",
+      "description": "Three foster kids, zero preparation, big heart.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0097523",
+      "type": "movie",
+      "name": "Honey, I Shrunk the Kids",
+      "releaseInfo": "1989",
+      "description": "Four kids, one shrink ray, a giant backyard.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0103786",
+      "type": "movie",
+      "name": "Beethoven",
+      "releaseInfo": "1992",
+      "description": "A giant St. Bernard adopts a family.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0104431",
+      "type": "movie",
+      "name": "Home Alone 2: Lost in New York",
+      "releaseInfo": "1992",
+      "description": "Kevin does Manhattan — and the Plaza.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0113497",
+      "type": "movie",
+      "name": "Jumanji",
+      "releaseInfo": "1995",
+      "description": "A board game that plays you.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0117008",
+      "type": "movie",
+      "name": "Matilda",
+      "releaseInfo": "1996",
+      "description": "A book-loving girl with powers vs. the Trunchbull.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0119137",
+      "type": "movie",
+      "name": "Flubber",
+      "releaseInfo": "1997",
+      "description": "Robin Williams invents bouncing-rubber chaos.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0194134",
+      "type": "movie",
+      "name": "Stuart Little",
+      "releaseInfo": "1999",
+      "description": "A mouse joins the family.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0227538",
+      "type": "movie",
+      "name": "Spy Kids",
+      "releaseInfo": "2001",
+      "description": "The Cortez kids become secret agents.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0492956",
+      "type": "movie",
+      "name": "The Game Plan",
+      "releaseInfo": "2007",
+      "description": "The Rock meets the daughter he never knew.",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    }
+  ]
+}

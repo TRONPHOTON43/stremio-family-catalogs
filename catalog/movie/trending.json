@@ -1,0 +1,124 @@
+{
+  "metas": [
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune: Part Two",
+      "releaseInfo": "2024",
+      "description": "The desert epic that dominated the year.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt22022452",
+      "type": "movie",
+      "name": "Inside Out 2",
+      "releaseInfo": "2024",
+      "description": "Pixar's giant hit — perfect for the whole family.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt1262426",
+      "type": "movie",
+      "name": "Wicked",
+      "releaseInfo": "2024",
+      "description": "The Oz musical phenomenon.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt29623480",
+      "type": "movie",
+      "name": "The Wild Robot",
+      "releaseInfo": "2024",
+      "description": "A robot raises a gosling — parents love this one.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt31187297",
+      "type": "movie",
+      "name": "Moana 2",
+      "releaseInfo": "2024",
+      "description": "Moana sails again; a billion-dollar crowd-pleaser.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt21692408",
+      "type": "movie",
+      "name": "Kung Fu Panda 4",
+      "releaseInfo": "2024",
+      "description": "Po is back — easy, funny, family-safe.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt9362722",
+      "type": "movie",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "releaseInfo": "2023",
+      "description": "The animated event of its year.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt6718170",
+      "type": "movie",
+      "name": "The Super Mario Bros. Movie",
+      "releaseInfo": "2023",
+      "description": "Pure family fun, huge with every age.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt1745960",
+      "type": "movie",
+      "name": "Top Gun: Maverick",
+      "releaseInfo": "2022",
+      "description": "The blockbuster nobody stopped rewatching.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt15398776",
+      "type": "movie",
+      "name": "Oppenheimer",
+      "releaseInfo": "2023",
+      "description": "The big one for Mom & Dad's movie night.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt6166392",
+      "type": "movie",
+      "name": "Wonka",
+      "releaseInfo": "2023",
+      "description": "How the chocolatier got his start — sweet and musical.",
+      "genres": [
+        "Popular"
+      ]
+    },
+    {
+      "id": "tt7510222",
+      "type": "movie",
+      "name": "Despicable Me 4",
+      "releaseInfo": "2024",
+      "description": "Gru, the Minions, and a baby — easy laughs.",
+      "genres": [
+        "Popular"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "metas": [
+    {
+      "id": "tt0112870",
+      "type": "movie",
+      "name": "Dilwale Dulhania Le Jayenge",
+      "releaseInfo": "1995",
+      "description": "The defining Bollywood romance.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0172684",
+      "type": "movie",
+      "name": "Kuch Kuch Hota Hai",
+      "releaseInfo": "1998",
+      "description": "SRK, Kajol, and Rani — pure 90s nostalgia.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0248126",
+      "type": "movie",
+      "name": "Kabhi Khushi Kabhie Gham…",
+      "releaseInfo": "2001",
+      "description": "The ultimate big-family drama.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0169102",
+      "type": "movie",
+      "name": "Lagaan",
+      "releaseInfo": "2001",
+      "description": "Cricket vs. the British Raj; Oscar-nominated.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0292490",
+      "type": "movie",
+      "name": "Dil Chahta Hai",
+      "releaseInfo": "2001",
+      "description": "The friendship film that changed Bollywood.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0374887",
+      "type": "movie",
+      "name": "Munna Bhai M.B.B.S.",
+      "releaseInfo": "2003",
+      "description": "Big laughs with a bigger heart.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0420332",
+      "type": "movie",
+      "name": "Veer-Zaara",
+      "releaseInfo": "2004",
+      "description": "Yash Chopra's cross-border love story.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0405508",
+      "type": "movie",
+      "name": "Rang De Basanti",
+      "releaseInfo": "2006",
+      "description": "Young India wakes up.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0986264",
+      "type": "movie",
+      "name": "Taare Zameen Par",
+      "releaseInfo": "2007",
+      "description": "A gentle, moving family drama.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1187043",
+      "type": "movie",
+      "name": "3 Idiots",
+      "releaseInfo": "2009",
+      "description": "The most beloved Bollywood comedy ever.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt3823222",
+      "type": "movie",
+      "name": "PK",
+      "releaseInfo": "2014",
+      "description": "Aamir Khan's record-breaking satire.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt5074352",
+      "type": "movie",
+      "name": "Dangal",
+      "releaseInfo": "2016",
+      "description": "Wrestling, daughters, and a father's dream.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0110219",
+      "type": "movie",
+      "name": "Hum Aapke Hain Koun..!",
+      "releaseInfo": "1994",
+      "description": "The wedding film that defined 90s Bollywood.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0326980",
+      "type": "movie",
+      "name": "Devdas",
+      "releaseInfo": "2002",
+      "description": "SRK's grand, tragic romance.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0347304",
+      "type": "movie",
+      "name": "Kal Ho Naa Ho",
+      "releaseInfo": "2003",
+      "description": "New York, friendship, and a famous title song.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0367110",
+      "type": "movie",
+      "name": "Swades",
+      "releaseInfo": "2004",
+      "description": "A NASA engineer rediscovers home.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0871510",
+      "type": "movie",
+      "name": "Chak De! India",
+      "releaseInfo": "2007",
+      "description": "Women's hockey fights for respect.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1166100",
+      "type": "movie",
+      "name": "Ghajini",
+      "releaseInfo": "2008",
+      "description": "A memory-loss revenge thriller.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1188996",
+      "type": "movie",
+      "name": "My Name Is Khan",
+      "releaseInfo": "2010",
+      "description": "Khan sets out to meet the President.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1562872",
+      "type": "movie",
+      "name": "Zindagi Na Milegi Dobara",
+      "releaseInfo": "2011",
+      "description": "Three friends, one Spanish road trip.",
+      "genres": [
+        "Bollywood",
+        "Drama",
+        "Romance"
+      ]
+    }
+  ]
+}

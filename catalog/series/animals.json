@@ -1,0 +1,224 @@
+{
+  "metas": [
+    {
+      "id": "tt0765725",
+      "type": "series",
+      "name": "Meerkat Manor",
+      "releaseInfo": "2005",
+      "description": "A meerkat family's soap-opera life in the Kalahari.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt9199798",
+      "type": "series",
+      "name": "Dogs",
+      "releaseInfo": "2018",
+      "description": "Six stories about the human–dog bond. Kleenex advised.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt9130692",
+      "type": "series",
+      "name": "Dynasties",
+      "releaseInfo": "2018",
+      "description": "Five animal families fight to survive.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt10382480",
+      "type": "series",
+      "name": "Seven Worlds, One Planet",
+      "releaseInfo": "2019",
+      "description": "One continent per episode, Attenborough narrating.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt6332742",
+      "type": "series",
+      "name": "Spy in the Wild",
+      "releaseInfo": "2017",
+      "description": "Robot animals film the real ones, eye to eye.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt0122351",
+      "type": "series",
+      "name": "The Crocodile Hunter",
+      "releaseInfo": "1996",
+      "description": "Steve Irwin — “Crikey!” — the original.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt0364174",
+      "type": "series",
+      "name": "The Life of Mammals",
+      "releaseInfo": "2002",
+      "description": "Attenborough on our warm-blooded relatives.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt0443398",
+      "type": "series",
+      "name": "The Dog Whisperer",
+      "releaseInfo": "2004",
+      "description": "Cesar Millan rehabilitates dogs, trains people.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt1110028",
+      "type": "series",
+      "name": "Orangutan Island",
+      "releaseInfo": "2007",
+      "description": "Orphaned orangutans learn to be wild.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt1195419",
+      "type": "series",
+      "name": "Whale Wars",
+      "releaseInfo": "2008",
+      "description": "Sea Shepherd vs. the whaling fleet.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt1503179",
+      "type": "series",
+      "name": "Pit Bulls and Parolees",
+      "releaseInfo": "2009",
+      "description": "Rescue dogs and second chances in New Orleans.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt2723908",
+      "type": "series",
+      "name": "Bondi Vet",
+      "releaseInfo": "2009",
+      "description": "Dr. Chris Brown rescues Sydney's animals.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt2298646",
+      "type": "series",
+      "name": "The Incredible Dr. Pol",
+      "releaseInfo": "2011",
+      "description": "A Michigan vet and a parade of farm animals.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt2070791",
+      "type": "series",
+      "name": "Too Cute!",
+      "releaseInfo": "2011",
+      "description": "Baby animals — nothing but baby animals.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt2401167",
+      "type": "series",
+      "name": "Unlikely Animal Friends",
+      "releaseInfo": "2012",
+      "description": "Friendships that shouldn't work, but do.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt4384766",
+      "type": "series",
+      "name": "Dr. Oakley, Yukon Vet",
+      "releaseInfo": "2014",
+      "description": "House calls across the Yukon wilderness.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt6130884",
+      "type": "series",
+      "name": "The Secret Life of the Zoo",
+      "releaseInfo": "2016",
+      "description": "Chester Zoo's animals, filmed up close.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt6324678",
+      "type": "series",
+      "name": "72 Cutest Animals",
+      "releaseInfo": "2016",
+      "description": "Exactly what the title promises.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt6493178",
+      "type": "series",
+      "name": "The Zoo",
+      "releaseInfo": "2017",
+      "description": "Behind the scenes at the Bronx Zoo.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    },
+    {
+      "id": "tt8929302",
+      "type": "series",
+      "name": "Crikey! It's the Irwins",
+      "releaseInfo": "2018",
+      "description": "Steve's family carries on at Australia Zoo.",
+      "genres": [
+        "Documentary",
+        "Animals"
+      ]
+    }
+  ]
+}

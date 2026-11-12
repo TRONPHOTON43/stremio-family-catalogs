@@ -1,0 +1,224 @@
+{
+  "metas": [
+    {
+      "id": "tt0075596",
+      "type": "series",
+      "name": "Three's Company",
+      "releaseInfo": "1977",
+      "description": "One of your reference points — Jack Tripper's farce.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0115167",
+      "type": "series",
+      "name": "Everybody Loves Raymond",
+      "releaseInfo": "1996",
+      "description": "Family across the street, comedy gold.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0165581",
+      "type": "series",
+      "name": "The King of Queens",
+      "releaseInfo": "1998",
+      "description": "Doug, Carrie, and Arthur in the basement.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0285351",
+      "type": "series",
+      "name": "According to Jim",
+      "releaseInfo": "2001",
+      "description": "Straight from your list — Jim Belushi's family man.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt1442464",
+      "type": "series",
+      "name": "The Middle",
+      "releaseInfo": "2009",
+      "description": "The Hecks: the most relatable family on TV.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt1499669",
+      "type": "series",
+      "name": "Mike & Molly",
+      "releaseInfo": "2010",
+      "description": "Your anchor pick — Billy Gardell's big-hearted hit.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt1828327",
+      "type": "series",
+      "name": "Last Man Standing",
+      "releaseInfo": "2011",
+      "description": "Tim Allen, three daughters, one man cave.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt2660924",
+      "type": "series",
+      "name": "Mom",
+      "releaseInfo": "2013",
+      "description": "Mother-daughter comedy from the Lorre stable.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt10329024",
+      "type": "series",
+      "name": "Bob Hearts Abishola",
+      "releaseInfo": "2019",
+      "description": "From your list — Detroit meets Nigeria, sweetly.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0278155",
+      "type": "series",
+      "name": "Reba",
+      "releaseInfo": "2001",
+      "description": "Reba McEntire holds a chaotic family together.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0313036",
+      "type": "series",
+      "name": "George Lopez",
+      "releaseInfo": "2002",
+      "description": "Lopez's family sitcom — a syndication staple.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0321017",
+      "type": "series",
+      "name": "Still Standing",
+      "releaseInfo": "2002",
+      "description": "High-school sweethearts raising kids their way.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0369179",
+      "type": "series",
+      "name": "Two and a Half Men",
+      "releaseInfo": "2003",
+      "description": "The other Lorre giant — Charlie, Alan, and Jake.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt2712740",
+      "type": "series",
+      "name": "The Goldbergs",
+      "releaseInfo": "2013",
+      "description": "A loving 80s family, filmed by son Adam.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt3487356",
+      "type": "series",
+      "name": "Black-ish",
+      "releaseInfo": "2014",
+      "description": "The Johnsons — funny and sharp.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt4384084",
+      "type": "series",
+      "name": "Life in Pieces",
+      "releaseInfo": "2015",
+      "description": "One big family, four short stories per episode.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt3986586",
+      "type": "series",
+      "name": "Fuller House",
+      "releaseInfo": "2016",
+      "description": "The Tanners return — very parents-friendly.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt5462720",
+      "type": "series",
+      "name": "Kevin Can Wait",
+      "releaseInfo": "2016",
+      "description": "Kevin James, retired cop, full house.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt6226232",
+      "type": "series",
+      "name": "Young Sheldon",
+      "releaseInfo": "2017",
+      "description": "Sheldon Cooper grows up in Texas.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt7942742",
+      "type": "series",
+      "name": "The Neighborhood",
+      "releaseInfo": "2018",
+      "description": "A Midwestern family moves to LA.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    }
+  ]
+}

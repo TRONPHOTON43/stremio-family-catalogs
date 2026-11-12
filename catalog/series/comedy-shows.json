@@ -1,0 +1,224 @@
+{
+  "metas": [
+    {
+      "id": "tt0098904",
+      "type": "series",
+      "name": "Seinfeld",
+      "releaseInfo": "1989",
+      "description": "The show about nothing.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0106004",
+      "type": "series",
+      "name": "Frasier",
+      "releaseInfo": "1993",
+      "description": "Tossed salads and scrambled eggs.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "releaseInfo": "1994",
+      "description": "Six friends, one coffee shop, ten seasons.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0165598",
+      "type": "series",
+      "name": "That '70s Show",
+      "releaseInfo": "1998",
+      "description": "The basement circle in Point Place.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0285403",
+      "type": "series",
+      "name": "Scrubs",
+      "releaseInfo": "2001",
+      "description": "Daydreams and hospital heart.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office",
+      "releaseInfo": "2005",
+      "description": "Dunder Mifflin's finest (US version).",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0460649",
+      "type": "series",
+      "name": "How I Met Your Mother",
+      "releaseInfo": "2005",
+      "description": "Ted's very long story to his kids.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt1442437",
+      "type": "series",
+      "name": "Modern Family",
+      "releaseInfo": "2009",
+      "description": "Three families, one documentary crew.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt1266020",
+      "type": "series",
+      "name": "Parks and Recreation",
+      "releaseInfo": "2009",
+      "description": "Leslie Knope loves Pawnee (and waffles).",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt2467372",
+      "type": "series",
+      "name": "Brooklyn Nine-Nine",
+      "releaseInfo": "2013",
+      "description": "The 99th precinct — noice, toit, wholesome.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0092359",
+      "type": "series",
+      "name": "Full House",
+      "releaseInfo": "1987",
+      "description": "Three men, three girls, one San Francisco house.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0101120",
+      "type": "series",
+      "name": "Home Improvement",
+      "releaseInfo": "1991",
+      "description": "Tool Time with Tim Taylor.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0115082",
+      "type": "series",
+      "name": "3rd Rock from the Sun",
+      "releaseInfo": "1996",
+      "description": "Aliens try to pass as a family.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0157246",
+      "type": "series",
+      "name": "Will & Grace",
+      "releaseInfo": "1998",
+      "description": "Will, Grace, Jack, and Karen.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0212671",
+      "type": "series",
+      "name": "Malcolm in the Middle",
+      "releaseInfo": "2000",
+      "description": "A genius kid in a wildly normal family.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0367279",
+      "type": "series",
+      "name": "Arrested Development",
+      "releaseInfo": "2003",
+      "description": "The Bluths — rich, ruined, ridiculous.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0496424",
+      "type": "series",
+      "name": "30 Rock",
+      "releaseInfo": "2006",
+      "description": "Behind the scenes of a sketch show.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt0898266",
+      "type": "series",
+      "name": "The Big Bang Theory",
+      "releaseInfo": "2007",
+      "description": "Sheldon, Leonard, and the gang.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt1439629",
+      "type": "series",
+      "name": "Community",
+      "releaseInfo": "2009",
+      "description": "A study group becomes a found family.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    },
+    {
+      "id": "tt3526078",
+      "type": "series",
+      "name": "Schitt's Creek",
+      "releaseInfo": "2015",
+      "description": "The Roses lose everything but each other.",
+      "genres": [
+        "Comedy",
+        "Sitcom"
+      ]
+    }
+  ]
+}

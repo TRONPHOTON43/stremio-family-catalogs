@@ -1,0 +1,244 @@
+{
+  "metas": [
+    {
+      "id": "tt8108198",
+      "type": "movie",
+      "name": "Andhadhun",
+      "releaseInfo": "2018",
+      "description": "A twisty thriller that keeps fooling you.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8108202",
+      "type": "movie",
+      "name": "Stree",
+      "releaseInfo": "2018",
+      "description": "Horror-comedy done right — spooky and funny.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7725596",
+      "type": "movie",
+      "name": "Badhaai Ho",
+      "releaseInfo": "2018",
+      "description": "A warm family comedy with heart.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2395469",
+      "type": "movie",
+      "name": "Gully Boy",
+      "releaseInfo": "2019",
+      "description": "Mumbai rap dreams, Ranveer at his best.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt9052870",
+      "type": "movie",
+      "name": "Chhichhore",
+      "releaseInfo": "2019",
+      "description": "College friends, second chances, big feelings.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt12844910",
+      "type": "movie",
+      "name": "Pathaan",
+      "releaseInfo": "2023",
+      "description": "SRK's spy-universe comeback smash.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt15354916",
+      "type": "movie",
+      "name": "Jawan",
+      "releaseInfo": "2023",
+      "description": "The biggest Hindi hit of 2023.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt14993250",
+      "type": "movie",
+      "name": "Rocky Aur Rani Kii Prem Kahaani",
+      "releaseInfo": "2023",
+      "description": "Old-school Bollywood romance, Karan Johar style.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt4387040",
+      "type": "movie",
+      "name": "Airlift",
+      "releaseInfo": "2016",
+      "description": "The true story of the Kuwait evacuation.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt4169250",
+      "type": "movie",
+      "name": "M.S. Dhoni: The Untold Story",
+      "releaseInfo": "2016",
+      "description": "India's cricket captain, from ticket collector to legend.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5571739",
+      "type": "movie",
+      "name": "Pink",
+      "releaseInfo": "2016",
+      "description": "A courtroom drama with Amitabh Bachchan.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5764096",
+      "type": "movie",
+      "name": "Hindi Medium",
+      "releaseInfo": "2017",
+      "description": "Parents vs. the school-admissions race.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6108090",
+      "type": "movie",
+      "name": "Secret Superstar",
+      "releaseInfo": "2017",
+      "description": "A small-town girl sings her way out.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5935704",
+      "type": "movie",
+      "name": "Padmaavat",
+      "releaseInfo": "2018",
+      "description": "Bhansali's lavish period epic.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7098658",
+      "type": "movie",
+      "name": "Raazi",
+      "releaseInfo": "2018",
+      "description": "A young spy in 1971 Pakistan.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6457572",
+      "type": "movie",
+      "name": "Sanju",
+      "releaseInfo": "2018",
+      "description": "The Sanjay Dutt story — Ranbir's tour de force.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7212726",
+      "type": "movie",
+      "name": "Simmba",
+      "releaseInfo": "2018",
+      "description": "Ranveer Singh's masala cop hit.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8291224",
+      "type": "movie",
+      "name": "Uri: The Surgical Strike",
+      "releaseInfo": "2019",
+      "description": "“How's the josh?” — the surgical strike film.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6264932",
+      "type": "movie",
+      "name": "Kesari",
+      "releaseInfo": "2019",
+      "description": "21 Sikhs against thousands at Saragarhi.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt10295212",
+      "type": "movie",
+      "name": "Shershaah",
+      "releaseInfo": "2021",
+      "description": "The Captain Vikram Batra story.",
+      "genres": [
+        "Bollywood",
+        "Action",
+        "Drama"
+      ]
+    }
+  ]
+}

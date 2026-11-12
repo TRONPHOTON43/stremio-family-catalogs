@@ -1,0 +1,224 @@
+{
+  "metas": [
+    {
+      "id": "tt0043206",
+      "type": "series",
+      "name": "I Love Lucy",
+      "releaseInfo": "1951",
+      "description": "Lucille Ball, the queen of it all.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0042114",
+      "type": "series",
+      "name": "The Honeymooners",
+      "releaseInfo": "1955",
+      "description": "“To the moon, Alice!” — Jackie Gleason.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0050032",
+      "type": "series",
+      "name": "Leave It to Beaver",
+      "releaseInfo": "1957",
+      "description": "The Beav and Wally in Mayfield.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0053479",
+      "type": "series",
+      "name": "The Andy Griffith Show",
+      "releaseInfo": "1960",
+      "description": "Mayberry, whistling theme and all.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0054533",
+      "type": "series",
+      "name": "The Dick Van Dyke Show",
+      "releaseInfo": "1961",
+      "description": "Rob Petrie trips over the ottoman.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0055669",
+      "type": "series",
+      "name": "The Beverly Hillbillies",
+      "releaseInfo": "1962",
+      "description": "The Clampetts strike oil, move to Beverly Hills.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0057731",
+      "type": "series",
+      "name": "Bewitched",
+      "releaseInfo": "1964",
+      "description": "Samantha twitches her nose.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0057736",
+      "type": "series",
+      "name": "Gilligan's Island",
+      "releaseInfo": "1964",
+      "description": "A three-hour tour…",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0058808",
+      "type": "series",
+      "name": "Green Acres",
+      "releaseInfo": "1965",
+      "description": "City folks, farm life, total silliness.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0065314",
+      "type": "series",
+      "name": "The Mary Tyler Moore Show",
+      "releaseInfo": "1970",
+      "description": "Mary Richards makes it after all.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0068098",
+      "type": "series",
+      "name": "M*A*S*H",
+      "releaseInfo": "1972",
+      "description": "Hawkeye and the 4077th — funny and moving.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0083399",
+      "type": "series",
+      "name": "Cheers",
+      "releaseInfo": "1982",
+      "description": "Where everybody knows your name.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0058816",
+      "type": "series",
+      "name": "Hogan's Heroes",
+      "releaseInfo": "1965",
+      "description": "POWs running rings around the guards.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0058805",
+      "type": "series",
+      "name": "Get Smart",
+      "releaseInfo": "1965",
+      "description": "Maxwell Smart, Agent 86 — “Missed it by that much.”",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0066626",
+      "type": "series",
+      "name": "All in the Family",
+      "releaseInfo": "1971",
+      "description": "Archie Bunker changed TV forever.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0068128",
+      "type": "series",
+      "name": "Sanford and Son",
+      "releaseInfo": "1972",
+      "description": "Fred Sanford and his junkyard kingdom.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0070992",
+      "type": "series",
+      "name": "Happy Days",
+      "releaseInfo": "1974",
+      "description": "Richie, Fonzie, and 1950s Milwaukee.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0072519",
+      "type": "series",
+      "name": "The Jeffersons",
+      "releaseInfo": "1975",
+      "description": "Movin' on up to the East Side.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0073469",
+      "type": "series",
+      "name": "Laverne & Shirley",
+      "releaseInfo": "1976",
+      "description": "Two Milwaukee bottlecappers chase their dreams.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    },
+    {
+      "id": "tt0077089",
+      "type": "series",
+      "name": "Taxi",
+      "releaseInfo": "1978",
+      "description": "The Sunshine Cab Company — an all-star cast.",
+      "genres": [
+        "Comedy",
+        "Classic TV"
+      ]
+    }
+  ]
+}

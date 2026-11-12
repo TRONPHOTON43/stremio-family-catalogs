@@ -1,0 +1,98 @@
+{
+  "id": "community.rm.familycatalogs",
+  "version": "1.0.0",
+  "name": "Family Catalogs",
+  "description": "Fifteen family-leaning catalogs in one add-on: trending (movies + series), old and new Bollywood, westerns, martial arts, action, fighting, a family-sitcom mix, romance, comedy movies and shows, classic comedy, nature and animals. Anchor titles stay put; rotating titles refresh monthly.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "trending",
+      "name": "Trending"
+    },
+    {
+      "type": "series",
+      "id": "trending",
+      "name": "Trending"
+    },
+    {
+      "type": "movie",
+      "id": "old-bollywood",
+      "name": "Old Bollywood"
+    },
+    {
+      "type": "movie",
+      "id": "new-bollywood",
+      "name": "New Bollywood"
+    },
+    {
+      "type": "movie",
+      "id": "westerns",
+      "name": "Westerns"
+    },
+    {
+      "type": "movie",
+      "id": "martial-arts",
+      "name": "Martial Arts"
+    },
+    {
+      "type": "movie",
+      "id": "action",
+      "name": "Action"
+    },
+    {
+      "type": "movie",
+      "id": "fighting",
+      "name": "Fighting"
+    },
+    {
+      "type": "series",
+      "id": "mix",
+      "name": "Mix"
+    },
+    {
+      "type": "movie",
+      "id": "romance",
+      "name": "Romance"
+    },
+    {
+      "type": "movie",
+      "id": "comedy-movies",
+      "name": "Comedy Movies"
+    },
+    {
+      "type": "movie",
+      "id": "comedy-movies-2",
+      "name": "Comedy Movies 2"
+    },
+    {
+      "type": "series",
+      "id": "comedy-shows",
+      "name": "Comedy Shows"
+    },
+    {
+      "type": "series",
+      "id": "classic-comedy",
+      "name": "Classic Comedy"
+    },
+    {
+      "type": "series",
+      "id": "nature",
+      "name": "Nature"
+    },
+    {
+      "type": "series",
+      "id": "animals",
+      "name": "Animals"
+    }
+  ]
+}
