@@ -4,6 +4,8 @@
       "id": "tt0053221",
       "type": "movie",
       "name": "Rio Bravo",
+      "poster": "https://images.metahub.space/poster/medium/tt0053221/img",
+      "posterShape": "poster",
       "releaseInfo": "1959",
       "description": "John Wayne holds the jail.",
       "genres": [
@@ -14,6 +16,8 @@
       "id": "tt0054047",
       "type": "movie",
       "name": "The Magnificent Seven",
+      "poster": "https://images.metahub.space/poster/medium/tt0054047/img",
+      "posterShape": "poster",
       "releaseInfo": "1960",
       "description": "Seven gunmen, one village.",
       "genres": [
@@ -24,6 +28,8 @@
       "id": "tt0060196",
       "type": "movie",
       "name": "The Good, the Bad and the Ugly",
+      "poster": "https://images.metahub.space/poster/medium/tt0060196/img",
+      "posterShape": "poster",
       "releaseInfo": "1966",
       "description": "Leone's masterpiece; Eastwood at his coolest.",
       "genres": [
@@ -34,6 +40,8 @@
       "id": "tt0064116",
       "type": "movie",
       "name": "Once Upon a Time in the West",
+      "poster": "https://images.metahub.space/poster/medium/tt0064116/img",
+      "posterShape": "poster",
       "releaseInfo": "1968",
       "description": "The grandest western ever filmed.",
       "genres": [
@@ -44,6 +52,8 @@
       "id": "tt0064115",
       "type": "movie",
       "name": "Butch Cassidy and the Sundance Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt0064115/img",
+      "posterShape": "poster",
       "releaseInfo": "1969",
       "description": "Newman & Redford, charming outlaws.",
       "genres": [
@@ -54,6 +64,8 @@
       "id": "tt0099197",
       "type": "movie",
       "name": "Dances with Wolves",
+      "poster": "https://images.metahub.space/poster/medium/tt0099197/img",
+      "posterShape": "poster",
       "releaseInfo": "1990",
       "description": "Costner's Oscar-winning epic.",
       "genres": [
@@ -64,6 +76,8 @@
       "id": "tt0105695",
       "type": "movie",
       "name": "Unforgiven",
+      "poster": "https://images.metahub.space/poster/medium/tt0105695/img",
+      "posterShape": "poster",
       "releaseInfo": "1992",
       "description": "Eastwood's sober, great farewell to the genre.",
       "genres": [
@@ -74,6 +88,8 @@
       "id": "tt0108358",
       "type": "movie",
       "name": "Tombstone",
+      "poster": "https://images.metahub.space/poster/medium/tt0108358/img",
+      "posterShape": "poster",
       "releaseInfo": "1993",
       "description": "The O.K. Corral, with Val Kilmer stealing it.",
       "genres": [
@@ -84,6 +100,8 @@
       "id": "tt0381849",
       "type": "movie",
       "name": "3:10 to Yuma",
+      "poster": "https://images.metahub.space/poster/medium/tt0381849/img",
+      "posterShape": "poster",
       "releaseInfo": "2007",
       "description": "Crowe vs. Bale on a prison train run.",
       "genres": [
@@ -94,6 +112,8 @@
       "id": "tt1403865",
       "type": "movie",
       "name": "True Grit",
+      "poster": "https://images.metahub.space/poster/medium/tt1403865/img",
+      "posterShape": "poster",
       "releaseInfo": "2010",
       "description": "The Coen brothers' take on the classic.",
       "genres": [
@@ -104,6 +124,8 @@
       "id": "tt0044706",
       "type": "movie",
       "name": "High Noon",
+      "poster": "https://images.metahub.space/poster/medium/tt0044706/img",
+      "posterShape": "poster",
       "releaseInfo": "1952",
       "description": "One marshal, one train, high noon.",
       "genres": [
@@ -114,6 +136,8 @@
       "id": "tt0046303",
       "type": "movie",
       "name": "Shane",
+      "poster": "https://images.metahub.space/poster/medium/tt0046303/img",
+      "posterShape": "poster",
       "releaseInfo": "1953",
       "description": "The gunfighter who rides into a family's life.",
       "genres": [
@@ -124,6 +148,8 @@
       "id": "tt0049730",
       "type": "movie",
       "name": "The Searchers",
+      "poster": "https://images.metahub.space/poster/medium/tt0049730/img",
+      "posterShape": "poster",
       "releaseInfo": "1956",
       "description": "John Wayne's greatest performance.",
       "genres": [
@@ -134,6 +160,8 @@
       "id": "tt0058461",
       "type": "movie",
       "name": "A Fistful of Dollars",
+      "poster": "https://images.metahub.space/poster/medium/tt0058461/img",
+      "posterShape": "poster",
       "releaseInfo": "1964",
       "description": "Eastwood becomes the Man with No Name.",
       "genres": [
@@ -144,6 +172,8 @@
       "id": "tt0059578",
       "type": "movie",
       "name": "For a Few Dollars More",
+      "poster": "https://images.metahub.space/poster/medium/tt0059578/img",
+      "posterShape": "poster",
       "releaseInfo": "1965",
       "description": "Two bounty hunters, one outlaw.",
       "genres": [
@@ -154,6 +184,8 @@
       "id": "tt0065214",
       "type": "movie",
       "name": "The Wild Bunch",
+      "poster": "https://images.metahub.space/poster/medium/tt0065214/img",
+      "posterShape": "poster",
       "releaseInfo": "1969",
       "description": "Peckinpah's violent farewell to the Old West.",
       "genres": [
@@ -164,6 +196,8 @@
       "id": "tt0075029",
       "type": "movie",
       "name": "The Outlaw Josey Wales",
+      "poster": "https://images.metahub.space/poster/medium/tt0075029/img",
+      "posterShape": "poster",
       "releaseInfo": "1976",
       "description": "Eastwood on the run after the Civil War.",
       "genres": [
@@ -174,6 +208,8 @@
       "id": "tt0089767",
       "type": "movie",
       "name": "Pale Rider",
+      "poster": "https://images.metahub.space/poster/medium/tt0089767/img",
+      "posterShape": "poster",
       "releaseInfo": "1985",
       "description": "A preacher rides into a mining camp.",
       "genres": [
@@ -184,6 +220,8 @@
       "id": "tt0443680",
       "type": "movie",
       "name": "The Assassination of Jesse James by the Coward Robert Ford",
+      "poster": "https://images.metahub.space/poster/medium/tt0443680/img",
+      "posterShape": "poster",
       "releaseInfo": "2007",
       "description": "Slow, beautiful, haunting.",
       "genres": [
@@ -194,6 +232,8 @@
       "id": "tt1853728",
       "type": "movie",
       "name": "Django Unchained",
+      "poster": "https://images.metahub.space/poster/medium/tt1853728/img",
+      "posterShape": "poster",
       "releaseInfo": "2012",
       "description": "Tarantino's western — for the grown-ups.",
       "genres": [

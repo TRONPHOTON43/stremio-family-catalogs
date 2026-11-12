@@ -1,8 +1,9 @@
 {
   "id": "community.rm.familycatalogs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Custom Catalogs",
   "description": "Fifteen family-leaning catalogs in one add-on: trending (movies + series), old and new Bollywood, westerns, martial arts, action, fighting, a family-sitcom mix, romance, comedy movies and shows, classic comedy, nature and animals. Anchor titles stay put; rotating titles refresh monthly.",
+  "logo": "https://tronphoton43.github.io/stremio-family-catalogs/logo.png",
   "resources": [
     "catalog"
   ],

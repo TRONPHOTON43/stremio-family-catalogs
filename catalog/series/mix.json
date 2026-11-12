@@ -4,6 +4,8 @@
       "id": "tt0075596",
       "type": "series",
       "name": "Three's Company",
+      "poster": "https://images.metahub.space/poster/medium/tt0075596/img",
+      "posterShape": "poster",
       "releaseInfo": "1977",
       "description": "One of your reference points — Jack Tripper's farce.",
       "genres": [
@@ -15,6 +17,8 @@
       "id": "tt0115167",
       "type": "series",
       "name": "Everybody Loves Raymond",
+      "poster": "https://images.metahub.space/poster/medium/tt0115167/img",
+      "posterShape": "poster",
       "releaseInfo": "1996",
       "description": "Family across the street, comedy gold.",
       "genres": [
@@ -26,6 +30,8 @@
       "id": "tt0165581",
       "type": "series",
       "name": "The King of Queens",
+      "poster": "https://images.metahub.space/poster/medium/tt0165581/img",
+      "posterShape": "poster",
       "releaseInfo": "1998",
       "description": "Doug, Carrie, and Arthur in the basement.",
       "genres": [
@@ -37,6 +43,8 @@
       "id": "tt0285351",
       "type": "series",
       "name": "According to Jim",
+      "poster": "https://images.metahub.space/poster/medium/tt0285351/img",
+      "posterShape": "poster",
       "releaseInfo": "2001",
       "description": "Straight from your list — Jim Belushi's family man.",
       "genres": [
@@ -48,6 +56,8 @@
       "id": "tt1442464",
       "type": "series",
       "name": "The Middle",
+      "poster": "https://images.metahub.space/poster/medium/tt1442464/img",
+      "posterShape": "poster",
       "releaseInfo": "2009",
       "description": "The Hecks: the most relatable family on TV.",
       "genres": [
@@ -59,6 +69,8 @@
       "id": "tt1499669",
       "type": "series",
       "name": "Mike & Molly",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Mike_%26_Molly_intertitle.png",
+      "posterShape": "landscape",
       "releaseInfo": "2010",
       "description": "Your anchor pick — Billy Gardell's big-hearted hit.",
       "genres": [
@@ -70,6 +82,8 @@
       "id": "tt1828327",
       "type": "series",
       "name": "Last Man Standing",
+      "poster": "https://images.metahub.space/poster/medium/tt1828327/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "Tim Allen, three daughters, one man cave.",
       "genres": [
@@ -81,6 +95,8 @@
       "id": "tt2660924",
       "type": "series",
       "name": "Mom",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mom_TV_series_logo.png",
+      "posterShape": "landscape",
       "releaseInfo": "2013",
       "description": "Mother-daughter comedy from the Lorre stable.",
       "genres": [
@@ -92,6 +108,8 @@
       "id": "tt10329024",
       "type": "series",
       "name": "Bob Hearts Abishola",
+      "poster": "https://images.metahub.space/poster/medium/tt10329024/img",
+      "posterShape": "poster",
       "releaseInfo": "2019",
       "description": "From your list — Detroit meets Nigeria, sweetly.",
       "genres": [
@@ -103,6 +121,8 @@
       "id": "tt0278155",
       "type": "series",
       "name": "Reba",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/Reba_Season_1.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2001",
       "description": "Reba McEntire holds a chaotic family together.",
       "genres": [
@@ -114,6 +134,8 @@
       "id": "tt0313036",
       "type": "series",
       "name": "George Lopez",
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/George_Lopez_show_logo.svg/330px-George_Lopez_show_logo.svg.png",
+      "posterShape": "landscape",
       "releaseInfo": "2002",
       "description": "Lopez's family sitcom — a syndication staple.",
       "genres": [
@@ -125,6 +147,8 @@
       "id": "tt0321017",
       "type": "series",
       "name": "Still Standing",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Still_Standing_TV_screenshot.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2002",
       "description": "High-school sweethearts raising kids their way.",
       "genres": [
@@ -136,6 +160,8 @@
       "id": "tt0369179",
       "type": "series",
       "name": "Two and a Half Men",
+      "poster": "https://images.metahub.space/poster/medium/tt0369179/img",
+      "posterShape": "poster",
       "releaseInfo": "2003",
       "description": "The other Lorre giant — Charlie, Alan, and Jake.",
       "genres": [
@@ -147,6 +173,8 @@
       "id": "tt2712740",
       "type": "series",
       "name": "The Goldbergs",
+      "poster": "https://images.metahub.space/poster/medium/tt2712740/img",
+      "posterShape": "poster",
       "releaseInfo": "2013",
       "description": "A loving 80s family, filmed by son Adam.",
       "genres": [
@@ -158,6 +186,8 @@
       "id": "tt3487356",
       "type": "series",
       "name": "Black-ish",
+      "poster": "https://images.metahub.space/poster/medium/tt3487356/img",
+      "posterShape": "poster",
       "releaseInfo": "2014",
       "description": "The Johnsons — funny and sharp.",
       "genres": [
@@ -169,6 +199,8 @@
       "id": "tt4384084",
       "type": "series",
       "name": "Life in Pieces",
+      "poster": "https://images.metahub.space/poster/medium/tt4384084/img",
+      "posterShape": "poster",
       "releaseInfo": "2015",
       "description": "One big family, four short stories per episode.",
       "genres": [
@@ -180,6 +212,8 @@
       "id": "tt3986586",
       "type": "series",
       "name": "Fuller House",
+      "poster": "https://images.metahub.space/poster/medium/tt3986586/img",
+      "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "The Tanners return — very parents-friendly.",
       "genres": [
@@ -191,6 +225,8 @@
       "id": "tt5462720",
       "type": "series",
       "name": "Kevin Can Wait",
+      "poster": "https://images.metahub.space/poster/medium/tt5462720/img",
+      "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "Kevin James, retired cop, full house.",
       "genres": [
@@ -202,6 +238,8 @@
       "id": "tt6226232",
       "type": "series",
       "name": "Young Sheldon",
+      "poster": "https://images.metahub.space/poster/medium/tt6226232/img",
+      "posterShape": "poster",
       "releaseInfo": "2017",
       "description": "Sheldon Cooper grows up in Texas.",
       "genres": [
@@ -213,6 +251,8 @@
       "id": "tt7942742",
       "type": "series",
       "name": "The Neighborhood",
+      "poster": "https://images.metahub.space/poster/medium/tt7942742/img",
+      "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "A Midwestern family moves to LA.",
       "genres": [

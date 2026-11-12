@@ -4,6 +4,8 @@
       "id": "tt0296310",
       "type": "series",
       "name": "The Blue Planet",
+      "poster": "https://images.metahub.space/poster/medium/tt0296310/img",
+      "posterShape": "poster",
       "releaseInfo": "2001",
       "description": "The oceans, explored like never before.",
       "genres": [
@@ -15,6 +17,8 @@
       "id": "tt0795176",
       "type": "series",
       "name": "Planet Earth",
+      "poster": "https://images.metahub.space/poster/medium/tt0795176/img",
+      "posterShape": "poster",
       "releaseInfo": "2006",
       "description": "The series that redefined nature TV.",
       "genres": [
@@ -26,6 +30,8 @@
       "id": "tt1533395",
       "type": "series",
       "name": "Life",
+      "poster": "https://images.metahub.space/poster/medium/tt1533395/img",
+      "posterShape": "poster",
       "releaseInfo": "2009",
       "description": "How animals survive, up close.",
       "genres": [
@@ -37,6 +43,8 @@
       "id": "tt2092588",
       "type": "series",
       "name": "Frozen Planet",
+      "poster": "https://images.metahub.space/poster/medium/tt2092588/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "The poles, in all their extremes.",
       "genres": [
@@ -48,6 +56,8 @@
       "id": "tt5491994",
       "type": "series",
       "name": "Planet Earth II",
+      "poster": "https://images.metahub.space/poster/medium/tt5491994/img",
+      "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "The iguana vs. snakes phenomenon.",
       "genres": [
@@ -59,6 +69,8 @@
       "id": "tt6769208",
       "type": "series",
       "name": "Blue Planet II",
+      "poster": "https://images.metahub.space/poster/medium/tt6769208/img",
+      "posterShape": "poster",
       "releaseInfo": "2017",
       "description": "The ocean sequel that moved millions.",
       "genres": [
@@ -70,6 +82,8 @@
       "id": "tt9253866",
       "type": "series",
       "name": "Our Planet",
+      "poster": "https://images.metahub.space/poster/medium/tt9253866/img",
+      "posterShape": "poster",
       "releaseInfo": "2019",
       "description": "Netflix's sweeping wildlife epic.",
       "genres": [
@@ -81,6 +95,8 @@
       "id": "tt18750552",
       "type": "series",
       "name": "Our Great National Parks",
+      "poster": "https://images.metahub.space/poster/medium/tt18750552/img",
+      "posterShape": "poster",
       "releaseInfo": "2022",
       "description": "Narrated by Barack Obama.",
       "genres": [
@@ -92,6 +108,8 @@
       "id": "tt0081846",
       "type": "series",
       "name": "Cosmos: A Personal Voyage",
+      "poster": "https://images.metahub.space/poster/medium/tt0081846/img",
+      "posterShape": "poster",
       "releaseInfo": "1980",
       "description": "Carl Sagan's landmark journey through the universe.",
       "genres": [
@@ -103,6 +121,8 @@
       "id": "tt0214382",
       "type": "series",
       "name": "Walking with Dinosaurs",
+      "poster": "https://images.metahub.space/poster/medium/tt0214382/img",
+      "posterShape": "poster",
       "releaseInfo": "1999",
       "description": "The BBC brings dinosaurs back to life.",
       "genres": [
@@ -114,6 +134,8 @@
       "id": "tt1436726",
       "type": "series",
       "name": "South Pacific",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/BBCSouthPacific.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2009",
       "description": "The ocean's strangest islands.",
       "genres": [
@@ -125,6 +147,8 @@
       "id": "tt1839863",
       "type": "series",
       "name": "Madagascar",
+      "poster": "https://images.metahub.space/poster/medium/tt1839863/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "The island that evolution built alone.",
       "genres": [
@@ -136,6 +160,8 @@
       "id": "tt1806234",
       "type": "series",
       "name": "Human Planet",
+      "poster": "https://images.metahub.space/poster/medium/tt1806234/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "How people survive in Earth's wildest places.",
       "genres": [
@@ -147,6 +173,8 @@
       "id": "tt2410738",
       "type": "series",
       "name": "Africa",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b9/BBC_Africa_title_card.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2013",
       "description": "Attenborough tours a continent of extremes.",
       "genres": [
@@ -158,6 +186,8 @@
       "id": "tt4446894",
       "type": "series",
       "name": "The Hunt",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Hunt_%28BBC_series%29_titlecard.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2015",
       "description": "Predator vs. prey, filmed like a thriller.",
       "genres": [
@@ -169,6 +199,8 @@
       "id": "tt10769766",
       "type": "series",
       "name": "Night on Earth",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/21/Night_on_earth_poster.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2020",
       "description": "Wildlife after dark, in living color.",
       "genres": [
@@ -180,6 +212,8 @@
       "id": "tt11777802",
       "type": "series",
       "name": "A Perfect Planet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/A_Perfect_Planet.png",
+      "posterShape": "landscape",
       "releaseInfo": "2021",
       "description": "The forces that make Earth habitable.",
       "genres": [
@@ -191,6 +225,8 @@
       "id": "tt15495408",
       "type": "series",
       "name": "The Green Planet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/78/The_Green_Planet_2022_cover.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2022",
       "description": "Plants get their own Planet Earth.",
       "genres": [
@@ -202,6 +238,8 @@
       "id": "tt14433666",
       "type": "series",
       "name": "Prehistoric Planet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/Prehistoric_Planet_2022_cover.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2022",
       "description": "Dinosaurs with Apple-sized spectacle.",
       "genres": [
@@ -213,6 +251,8 @@
       "id": "tt16346748",
       "type": "series",
       "name": "Life on Our Planet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Life_on_Our_Planet.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "Morgan Freeman narrates life's 4-billion-year story.",
       "genres": [

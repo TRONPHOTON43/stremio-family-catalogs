@@ -4,6 +4,8 @@
       "id": "tt0075148",
       "type": "movie",
       "name": "Rocky",
+      "poster": "https://images.metahub.space/poster/medium/tt0075148/img",
+      "posterShape": "poster",
       "releaseInfo": "1976",
       "description": "The original underdog story. Best Picture winner.",
       "genres": [
@@ -15,6 +17,8 @@
       "id": "tt0081398",
       "type": "movie",
       "name": "Raging Bull",
+      "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+      "posterShape": "poster",
       "releaseInfo": "1980",
       "description": "De Niro & Scorsese — heavy, and not for kids.",
       "genres": [
@@ -26,6 +30,8 @@
       "id": "tt0087538",
       "type": "movie",
       "name": "The Karate Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt0087538/img",
+      "posterShape": "poster",
       "releaseInfo": "1984",
       "description": "Wax on, wax off — the family favorite.",
       "genres": [
@@ -37,6 +43,8 @@
       "id": "tt0092675",
       "type": "movie",
       "name": "Bloodsport",
+      "poster": "https://images.metahub.space/poster/medium/tt0092675/img",
+      "posterShape": "poster",
       "releaseInfo": "1988",
       "description": "Van Damme's underground tournament classic.",
       "genres": [
@@ -48,6 +56,8 @@
       "id": "tt0405159",
       "type": "movie",
       "name": "Million Dollar Baby",
+      "poster": "https://images.metahub.space/poster/medium/tt0405159/img",
+      "posterShape": "poster",
       "releaseInfo": "2004",
       "description": "Eastwood's heartbreaking boxing drama.",
       "genres": [
@@ -59,6 +69,8 @@
       "id": "tt0964517",
       "type": "movie",
       "name": "The Fighter",
+      "poster": "https://images.metahub.space/poster/medium/tt0964517/img",
+      "posterShape": "poster",
       "releaseInfo": "2010",
       "description": "Brothers, boxing, and a comeback.",
       "genres": [
@@ -70,6 +82,8 @@
       "id": "tt1291584",
       "type": "movie",
       "name": "Warrior",
+      "poster": "https://images.metahub.space/poster/medium/tt1291584/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "Two brothers meet in an MMA cage.",
       "genres": [
@@ -81,6 +95,8 @@
       "id": "tt0433035",
       "type": "movie",
       "name": "Real Steel",
+      "poster": "https://images.metahub.space/poster/medium/tt0433035/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "Robot boxing — secretly a sweet dad film.",
       "genres": [
@@ -92,6 +108,8 @@
       "id": "tt3076658",
       "type": "movie",
       "name": "Creed",
+      "poster": "https://images.metahub.space/poster/medium/tt3076658/img",
+      "posterShape": "poster",
       "releaseInfo": "2015",
       "description": "Rocky passes the gloves to Apollo's son.",
       "genres": [
@@ -103,6 +121,8 @@
       "id": "tt1798684",
       "type": "movie",
       "name": "Southpaw",
+      "poster": "https://images.metahub.space/poster/medium/tt1798684/img",
+      "posterShape": "poster",
       "releaseInfo": "2015",
       "description": "Gyllenhaal fights his way back to his daughter.",
       "genres": [
@@ -114,6 +134,8 @@
       "id": "tt0079817",
       "type": "movie",
       "name": "Rocky II",
+      "poster": "https://images.metahub.space/poster/medium/tt0079817/img",
+      "posterShape": "poster",
       "releaseInfo": "1979",
       "description": "The rematch with Apollo Creed.",
       "genres": [
@@ -125,6 +147,8 @@
       "id": "tt0089927",
       "type": "movie",
       "name": "Rocky IV",
+      "poster": "https://images.metahub.space/poster/medium/tt0089927/img",
+      "posterShape": "poster",
       "releaseInfo": "1985",
       "description": "Rocky vs. Drago — peak 80s.",
       "genres": [
@@ -136,6 +160,8 @@
       "id": "tt0097659",
       "type": "movie",
       "name": "Kickboxer",
+      "poster": "https://images.metahub.space/poster/medium/tt0097659/img",
+      "posterShape": "poster",
       "releaseInfo": "1989",
       "description": "Van Damme trains for revenge in Thailand.",
       "genres": [
@@ -147,6 +173,8 @@
       "id": "tt0174856",
       "type": "movie",
       "name": "The Hurricane",
+      "poster": "https://images.metahub.space/poster/medium/tt0174856/img",
+      "posterShape": "poster",
       "releaseInfo": "1999",
       "description": "Denzel as boxer Rubin “Hurricane” Carter.",
       "genres": [
@@ -158,6 +186,8 @@
       "id": "tt0248667",
       "type": "movie",
       "name": "Ali",
+      "poster": "https://images.metahub.space/poster/medium/tt0248667/img",
+      "posterShape": "poster",
       "releaseInfo": "2001",
       "description": "Will Smith becomes Muhammad Ali.",
       "genres": [
@@ -169,6 +199,8 @@
       "id": "tt0352245",
       "type": "movie",
       "name": "Cinderella Man",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4f/Cinderella_Man_poster.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2005",
       "description": "Depression-era boxing and dignity.",
       "genres": [
@@ -180,6 +212,8 @@
       "id": "tt0479143",
       "type": "movie",
       "name": "Rocky Balboa",
+      "poster": "https://images.metahub.space/poster/medium/tt0479143/img",
+      "posterShape": "poster",
       "releaseInfo": "2006",
       "description": "One last fight, thirty years on.",
       "genres": [
@@ -191,6 +225,8 @@
       "id": "tt1125849",
       "type": "movie",
       "name": "The Wrestler",
+      "poster": "https://images.metahub.space/poster/medium/tt1125849/img",
+      "posterShape": "poster",
       "releaseInfo": "2008",
       "description": "Mickey Rourke's battered comeback.",
       "genres": [
@@ -202,6 +238,8 @@
       "id": "tt1023483",
       "type": "movie",
       "name": "Never Back Down",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Never_back_down.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2008",
       "description": "High-school MMA underground.",
       "genres": [
@@ -213,6 +251,8 @@
       "id": "tt6343314",
       "type": "movie",
       "name": "Creed II",
+      "poster": "https://images.metahub.space/poster/medium/tt6343314/img",
+      "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "Adonis faces Drago's son.",
       "genres": [

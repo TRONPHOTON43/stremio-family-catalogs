@@ -4,6 +4,8 @@
       "id": "tt0765725",
       "type": "series",
       "name": "Meerkat Manor",
+      "poster": "https://images.metahub.space/poster/medium/tt0765725/img",
+      "posterShape": "poster",
       "releaseInfo": "2005",
       "description": "A meerkat family's soap-opera life in the Kalahari.",
       "genres": [
@@ -15,6 +17,8 @@
       "id": "tt9199798",
       "type": "series",
       "name": "Dogs",
+      "poster": "https://images.metahub.space/poster/medium/tt9199798/img",
+      "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "Six stories about the human–dog bond. Kleenex advised.",
       "genres": [
@@ -26,6 +30,8 @@
       "id": "tt9130692",
       "type": "series",
       "name": "Dynasties",
+      "poster": "https://images.metahub.space/poster/medium/tt9130692/img",
+      "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "Five animal families fight to survive.",
       "genres": [
@@ -37,6 +43,8 @@
       "id": "tt10382480",
       "type": "series",
       "name": "Seven Worlds, One Planet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ef/Seven_Worlds%2C_One_Planet.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2019",
       "description": "One continent per episode, Attenborough narrating.",
       "genres": [
@@ -48,6 +56,8 @@
       "id": "tt6332742",
       "type": "series",
       "name": "Spy in the Wild",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7c/Spy_in_the_Wild_BBC_cover.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2017",
       "description": "Robot animals film the real ones, eye to eye.",
       "genres": [
@@ -59,6 +69,8 @@
       "id": "tt0122351",
       "type": "series",
       "name": "The Crocodile Hunter",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Crocodile_Hunter_Logo.png",
+      "posterShape": "square",
       "releaseInfo": "1996",
       "description": "Steve Irwin — “Crikey!” — the original.",
       "genres": [
@@ -70,6 +82,8 @@
       "id": "tt0364174",
       "type": "series",
       "name": "The Life of Mammals",
+      "poster": "https://images.metahub.space/poster/medium/tt0364174/img",
+      "posterShape": "poster",
       "releaseInfo": "2002",
       "description": "Attenborough on our warm-blooded relatives.",
       "genres": [
@@ -81,6 +95,8 @@
       "id": "tt0443398",
       "type": "series",
       "name": "The Dog Whisperer",
+      "poster": "https://images.metahub.space/poster/medium/tt0443398/img",
+      "posterShape": "poster",
       "releaseInfo": "2004",
       "description": "Cesar Millan rehabilitates dogs, trains people.",
       "genres": [
@@ -92,6 +108,8 @@
       "id": "tt1110028",
       "type": "series",
       "name": "Orangutan Island",
+      "poster": "https://images.metahub.space/poster/medium/tt1110028/img",
+      "posterShape": "poster",
       "releaseInfo": "2007",
       "description": "Orphaned orangutans learn to be wild.",
       "genres": [
@@ -103,6 +121,8 @@
       "id": "tt1195419",
       "type": "series",
       "name": "Whale Wars",
+      "poster": "https://images.metahub.space/poster/medium/tt1195419/img",
+      "posterShape": "poster",
       "releaseInfo": "2008",
       "description": "Sea Shepherd vs. the whaling fleet.",
       "genres": [
@@ -114,6 +134,8 @@
       "id": "tt1503179",
       "type": "series",
       "name": "Pit Bulls and Parolees",
+      "poster": "https://images.metahub.space/poster/medium/tt1503179/img",
+      "posterShape": "poster",
       "releaseInfo": "2009",
       "description": "Rescue dogs and second chances in New Orleans.",
       "genres": [
@@ -125,6 +147,8 @@
       "id": "tt2723908",
       "type": "series",
       "name": "Bondi Vet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/Bondi-vet.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2009",
       "description": "Dr. Chris Brown rescues Sydney's animals.",
       "genres": [
@@ -136,6 +160,8 @@
       "id": "tt2298646",
       "type": "series",
       "name": "The Incredible Dr. Pol",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Incredible_Dr._Pol_logo.png",
+      "posterShape": "landscape",
       "releaseInfo": "2011",
       "description": "A Michigan vet and a parade of farm animals.",
       "genres": [
@@ -147,6 +173,8 @@
       "id": "tt2070791",
       "type": "series",
       "name": "Too Cute!",
+      "poster": "https://images.metahub.space/poster/medium/tt2070791/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "Baby animals — nothing but baby animals.",
       "genres": [
@@ -158,6 +186,8 @@
       "id": "tt2401167",
       "type": "series",
       "name": "Unlikely Animal Friends",
+      "poster": "https://images.metahub.space/poster/medium/tt2401167/img",
+      "posterShape": "poster",
       "releaseInfo": "2012",
       "description": "Friendships that shouldn't work, but do.",
       "genres": [
@@ -169,6 +199,8 @@
       "id": "tt4384766",
       "type": "series",
       "name": "Dr. Oakley, Yukon Vet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/ac/Title_card_for_Dr._Oakley_Yukon_Vet.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2014",
       "description": "House calls across the Yukon wilderness.",
       "genres": [
@@ -180,6 +212,8 @@
       "id": "tt6130884",
       "type": "series",
       "name": "The Secret Life of the Zoo",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/Secret_Life_of_the_Zoo_title_card.jpg",
+      "posterShape": "landscape",
       "releaseInfo": "2016",
       "description": "Chester Zoo's animals, filmed up close.",
       "genres": [
@@ -191,6 +225,8 @@
       "id": "tt6324678",
       "type": "series",
       "name": "72 Cutest Animals",
+      "poster": "https://images.metahub.space/poster/medium/tt6324678/img",
+      "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "Exactly what the title promises.",
       "genres": [
@@ -202,6 +238,8 @@
       "id": "tt6493178",
       "type": "series",
       "name": "The Zoo",
+      "poster": "https://images.metahub.space/poster/medium/tt6493178/img",
+      "posterShape": "poster",
       "releaseInfo": "2017",
       "description": "Behind the scenes at the Bronx Zoo.",
       "genres": [
@@ -213,6 +251,8 @@
       "id": "tt8929302",
       "type": "series",
       "name": "Crikey! It's the Irwins",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/Crikey%21_It%27s_the_Irwins.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "Steve's family carries on at Australia Zoo.",
       "genres": [

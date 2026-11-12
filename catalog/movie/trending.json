@@ -4,6 +4,8 @@
       "id": "tt15239678",
       "type": "movie",
       "name": "Dune: Part Two",
+      "poster": "https://images.metahub.space/poster/medium/tt15239678/img",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "The desert epic that dominated the year.",
       "genres": [
@@ -14,6 +16,8 @@
       "id": "tt22022452",
       "type": "movie",
       "name": "Inside Out 2",
+      "poster": "https://images.metahub.space/poster/medium/tt22022452/img",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "Pixar's giant hit — perfect for the whole family.",
       "genres": [
@@ -24,6 +28,8 @@
       "id": "tt1262426",
       "type": "movie",
       "name": "Wicked",
+      "poster": "https://images.metahub.space/poster/medium/tt1262426/img",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "The Oz musical phenomenon.",
       "genres": [
@@ -34,6 +40,8 @@
       "id": "tt29623480",
       "type": "movie",
       "name": "The Wild Robot",
+      "poster": "https://images.metahub.space/poster/medium/tt29623480/img",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "A robot raises a gosling — parents love this one.",
       "genres": [
@@ -44,6 +52,8 @@
       "id": "tt31187297",
       "type": "movie",
       "name": "Moana 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "Moana sails again; a billion-dollar crowd-pleaser.",
       "genres": [
@@ -54,6 +64,8 @@
       "id": "tt21692408",
       "type": "movie",
       "name": "Kung Fu Panda 4",
+      "poster": "https://images.metahub.space/poster/medium/tt21692408/img",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "Po is back — easy, funny, family-safe.",
       "genres": [
@@ -64,6 +76,8 @@
       "id": "tt9362722",
       "type": "movie",
       "name": "Spider-Man: Across the Spider-Verse",
+      "poster": "https://images.metahub.space/poster/medium/tt9362722/img",
+      "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "The animated event of its year.",
       "genres": [
@@ -74,6 +88,8 @@
       "id": "tt6718170",
       "type": "movie",
       "name": "The Super Mario Bros. Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt6718170/img",
+      "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "Pure family fun, huge with every age.",
       "genres": [
@@ -84,6 +100,8 @@
       "id": "tt1745960",
       "type": "movie",
       "name": "Top Gun: Maverick",
+      "poster": "https://images.metahub.space/poster/medium/tt1745960/img",
+      "posterShape": "poster",
       "releaseInfo": "2022",
       "description": "The blockbuster nobody stopped rewatching.",
       "genres": [
@@ -94,6 +112,8 @@
       "id": "tt15398776",
       "type": "movie",
       "name": "Oppenheimer",
+      "poster": "https://images.metahub.space/poster/medium/tt15398776/img",
+      "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "The big one for Mom & Dad's movie night.",
       "genres": [
@@ -104,6 +124,8 @@
       "id": "tt6166392",
       "type": "movie",
       "name": "Wonka",
+      "poster": "https://images.metahub.space/poster/medium/tt6166392/img",
+      "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "How the chocolatier got his start — sweet and musical.",
       "genres": [
@@ -114,6 +136,8 @@
       "id": "tt7510222",
       "type": "movie",
       "name": "Despicable Me 4",
+      "poster": "https://images.metahub.space/poster/medium/tt7510222/img",
+      "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "Gru, the Minions, and a baby — easy laughs.",
       "genres": [
