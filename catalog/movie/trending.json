@@ -1,25 +1,13 @@
 {
   "metas": [
     {
-      "id": "tt15239678",
-      "type": "movie",
-      "name": "Dune: Part Two",
-      "poster": "https://images.metahub.space/poster/medium/tt15239678/img",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "description": "The desert epic that dominated the year.",
-      "genres": [
-        "Popular"
-      ]
-    },
-    {
       "id": "tt22022452",
       "type": "movie",
       "name": "Inside Out 2",
       "poster": "https://images.metahub.space/poster/medium/tt22022452/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Pixar's giant hit — perfect for the whole family.",
+      "description": "Pixar's giant hit \u2014 perfect for the whole family.",
       "genres": [
         "Popular"
       ]
@@ -43,16 +31,16 @@
       "poster": "https://images.metahub.space/poster/medium/tt29623480/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "A robot raises a gosling — parents love this one.",
+      "description": "A robot raises a gosling \u2014 parents love this one.",
       "genres": [
         "Popular"
       ]
     },
     {
-      "id": "tt31187297",
+      "id": "tt13622970",
       "type": "movie",
       "name": "Moana 2",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt13622970/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
       "description": "Moana sails again; a billion-dollar crowd-pleaser.",
@@ -67,7 +55,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt21692408/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Po is back — easy, funny, family-safe.",
+      "description": "Po is back \u2014 easy, funny, family-safe.",
       "genres": [
         "Popular"
       ]
@@ -80,30 +68,6 @@
       "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "The animated event of its year.",
-      "genres": [
-        "Popular"
-      ]
-    },
-    {
-      "id": "tt6718170",
-      "type": "movie",
-      "name": "The Super Mario Bros. Movie",
-      "poster": "https://images.metahub.space/poster/medium/tt6718170/img",
-      "posterShape": "poster",
-      "releaseInfo": "2023",
-      "description": "Pure family fun, huge with every age.",
-      "genres": [
-        "Popular"
-      ]
-    },
-    {
-      "id": "tt1745960",
-      "type": "movie",
-      "name": "Top Gun: Maverick",
-      "poster": "https://images.metahub.space/poster/medium/tt1745960/img",
-      "posterShape": "poster",
-      "releaseInfo": "2022",
-      "description": "The blockbuster nobody stopped rewatching.",
       "genres": [
         "Popular"
       ]
@@ -127,7 +91,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt6166392/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
-      "description": "How the chocolatier got his start — sweet and musical.",
+      "description": "How the chocolatier got his start \u2014 sweet and musical.",
       "genres": [
         "Popular"
       ]
@@ -139,10 +103,192 @@
       "poster": "https://images.metahub.space/poster/medium/tt7510222/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Gru, the Minions, and a baby — easy laughs.",
+      "description": "Gru, the Minions, and a baby \u2014 easy laughs.",
       "genres": [
         "Popular"
       ]
+    },
+    {
+      "id": "tt1517268",
+      "type": "movie",
+      "name": "Barbie",
+      "poster": "https://images.metahub.space/poster/medium/tt1517268/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1630029",
+      "type": "movie",
+      "name": "Avatar: The Way of Water",
+      "poster": "https://images.metahub.space/poster/medium/tt1630029/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6791350",
+      "type": "movie",
+      "name": "Guardians of the Galaxy Vol. 3",
+      "poster": "https://images.metahub.space/poster/medium/tt6791350/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt15789038",
+      "type": "movie",
+      "name": "Elemental",
+      "poster": "https://images.metahub.space/poster/medium/tt15789038/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5971474",
+      "type": "movie",
+      "name": "The Little Mermaid",
+      "poster": "https://images.metahub.space/poster/medium/tt5971474/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6495056",
+      "type": "movie",
+      "name": "Migration",
+      "poster": "https://images.metahub.space/poster/medium/tt6495056/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11304740",
+      "type": "movie",
+      "name": "Wish",
+      "poster": "https://images.metahub.space/poster/medium/tt11304740/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13186482",
+      "type": "movie",
+      "name": "Mufasa: The Lion King",
+      "poster": "https://images.metahub.space/poster/medium/tt13186482/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt10954718",
+      "type": "movie",
+      "name": "Dog Man",
+      "poster": "https://images.metahub.space/poster/medium/tt10954718/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5822536",
+      "type": "movie",
+      "name": "Paddington in Peru",
+      "poster": "https://images.metahub.space/poster/medium/tt5822536/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11655566",
+      "type": "movie",
+      "name": "Lilo & Stitch",
+      "poster": "https://images.metahub.space/poster/medium/tt11655566/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt26743210",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt26743210/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4900148",
+      "type": "movie",
+      "name": "Elio",
+      "poster": "https://images.metahub.space/poster/medium/tt4900148/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://images.metahub.space/poster/medium/tt26443597/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3566834",
+      "type": "movie",
+      "name": "A Minecraft Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt3566834/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt14205554",
+      "type": "movie",
+      "name": "KPop Demon Hunters",
+      "poster": "https://images.metahub.space/poster/medium/tt14205554/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "name": "The Fantastic Four: First Steps",
+      "poster": "https://images.metahub.space/poster/medium/tt10676052/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt16311594",
+      "type": "movie",
+      "name": "F1",
+      "poster": "https://images.metahub.space/poster/medium/tt16311594/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt30144839",
+      "type": "movie",
+      "name": "One Battle After Another",
+      "poster": "https://images.metahub.space/poster/medium/tt30144839/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt19847976",
+      "type": "movie",
+      "name": "Wicked: For Good",
+      "poster": "https://images.metahub.space/poster/medium/tt19847976/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1757678",
+      "type": "movie",
+      "name": "Avatar: Fire and Ash",
+      "poster": "https://images.metahub.space/poster/medium/tt1757678/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt23572848",
+      "type": "movie",
+      "name": "The SpongeBob Movie: Search for SquarePants",
+      "poster": "https://images.metahub.space/poster/medium/tt23572848/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4712810",
+      "type": "movie",
+      "name": "Now You See Me: Now You Don't",
+      "poster": "https://images.metahub.space/poster/medium/tt4712810/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3402138",
+      "type": "movie",
+      "name": "The Naked Gun",
+      "poster": "https://images.metahub.space/poster/medium/tt3402138/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt31956415",
+      "type": "movie",
+      "name": "Freakier Friday",
+      "poster": "https://images.metahub.space/poster/medium/tt31956415/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6604188",
+      "type": "movie",
+      "name": "Tron: Ares",
+      "poster": "https://images.metahub.space/poster/medium/tt6604188/img",
+      "posterShape": "poster"
     }
   ]
 }

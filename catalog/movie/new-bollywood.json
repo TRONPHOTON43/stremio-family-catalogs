@@ -21,7 +21,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt8108202/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
-      "description": "Horror-comedy done right — spooky and funny.",
+      "description": "Horror-comedy done right \u2014 spooky and funny.",
       "genres": [
         "Bollywood",
         "Action",
@@ -141,10 +141,10 @@
       ]
     },
     {
-      "id": "tt5571739",
+      "id": "tt5571734",
       "type": "movie",
       "name": "Pink",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/a/ae/Pinkmovieposter.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt5571734/img",
       "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "A courtroom drama with Amitabh Bachchan.",
@@ -211,13 +211,13 @@
       ]
     },
     {
-      "id": "tt6457572",
+      "id": "tt6452574",
       "type": "movie",
       "name": "Sanju",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Sanju_poster.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt6452574/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
-      "description": "The Sanjay Dutt story — Ranbir's tour de force.",
+      "description": "The Sanjay Dutt story \u2014 Ranbir's tour de force.",
       "genres": [
         "Bollywood",
         "Action",
@@ -245,7 +245,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt8291224/img",
       "posterShape": "poster",
       "releaseInfo": "2019",
-      "description": "“How's the josh?” — the surgical strike film.",
+      "description": "\u201cHow's the josh?\u201d \u2014 the surgical strike film.",
       "genres": [
         "Bollywood",
         "Action",
@@ -253,10 +253,10 @@
       ]
     },
     {
-      "id": "tt6264932",
+      "id": "tt6264938",
       "type": "movie",
       "name": "Kesari",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/Kesari_poster.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt6264938/img",
       "posterShape": "poster",
       "releaseInfo": "2019",
       "description": "21 Sikhs against thousands at Saragarhi.",
@@ -279,6 +279,111 @@
         "Action",
         "Drama"
       ]
+    },
+    {
+      "id": "tt6967980",
+      "type": "movie",
+      "name": "Bareilly Ki Barfi",
+      "poster": "https://images.metahub.space/poster/medium/tt6967980/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6971752",
+      "type": "movie",
+      "name": "Shubh Mangal Saavdhan",
+      "poster": "https://images.metahub.space/poster/medium/tt6971752/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6484982",
+      "type": "movie",
+      "name": "Newton",
+      "poster": "https://images.metahub.space/poster/medium/tt6484982/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6791730",
+      "type": "movie",
+      "name": "Tumhari Sulu",
+      "poster": "https://images.metahub.space/poster/medium/tt6791730/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt7363076",
+      "type": "movie",
+      "name": "Raid",
+      "poster": "https://images.metahub.space/poster/medium/tt7363076/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt27510174",
+      "type": "movie",
+      "name": "Stree 2",
+      "poster": "https://images.metahub.space/poster/medium/tt27510174/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt23849204",
+      "type": "movie",
+      "name": "12th Fail",
+      "poster": "https://images.metahub.space/poster/medium/tt23849204/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt15428134",
+      "type": "movie",
+      "name": "Dunki",
+      "poster": "https://images.metahub.space/poster/medium/tt15428134/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13818368",
+      "type": "movie",
+      "name": "Fighter",
+      "poster": "https://images.metahub.space/poster/medium/tt13818368/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt21626284",
+      "type": "movie",
+      "name": "Laapataa Ladies",
+      "poster": "https://images.metahub.space/poster/medium/tt21626284/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt26658272",
+      "type": "movie",
+      "name": "Amar Singh Chamkila",
+      "poster": "https://images.metahub.space/poster/medium/tt26658272/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt21383812",
+      "type": "movie",
+      "name": "Crew",
+      "poster": "https://images.metahub.space/poster/medium/tt21383812/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6455162",
+      "type": "movie",
+      "name": "Bhool Bhulaiyaa 2",
+      "poster": "https://images.metahub.space/poster/medium/tt6455162/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt12361178",
+      "type": "movie",
+      "name": "Drishyam 2",
+      "poster": "https://images.metahub.space/poster/medium/tt12361178/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8504014",
+      "type": "movie",
+      "name": "Good Newwz",
+      "poster": "https://images.metahub.space/poster/medium/tt8504014/img",
+      "posterShape": "poster"
     }
   ]
 }

@@ -3,7 +3,7 @@
     {
       "id": "tt2788316",
       "type": "series",
-      "name": "Shōgun",
+      "name": "Sh\u014dgun",
       "poster": "https://images.metahub.space/poster/medium/tt2788316/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
@@ -19,7 +19,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt12637874/img",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "The wasteland hit — funny, wild, huge.",
+      "description": "The wasteland hit \u2014 funny, wild, huge.",
       "genres": [
         "Popular"
       ]
@@ -43,7 +43,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt10986410/img",
       "posterShape": "poster",
       "releaseInfo": "2020",
-      "description": "Feel-good coaching comedy — a parents' favorite.",
+      "description": "Feel-good coaching comedy \u2014 a parents' favorite.",
       "genres": [
         "Popular"
       ]
@@ -95,6 +95,195 @@
       "genres": [
         "Popular"
       ]
+    },
+    {
+      "id": "tt3581920",
+      "type": "series",
+      "name": "The Last of Us",
+      "poster": "https://images.metahub.space/poster/medium/tt3581920/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13406094",
+      "type": "series",
+      "name": "The White Lotus",
+      "poster": "https://images.metahub.space/poster/medium/tt13406094/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt10919420",
+      "type": "series",
+      "name": "Squid Game",
+      "poster": "https://images.metahub.space/poster/medium/tt10919420/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8111088",
+      "type": "series",
+      "name": "The Mandalorian",
+      "poster": "https://images.metahub.space/poster/medium/tt8111088/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9140560",
+      "type": "series",
+      "name": "WandaVision",
+      "poster": "https://images.metahub.space/poster/medium/tt9140560/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://images.metahub.space/poster/medium/tt1190634/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4786824",
+      "type": "series",
+      "name": "The Crown",
+      "poster": "https://images.metahub.space/poster/medium/tt4786824/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8740790",
+      "type": "series",
+      "name": "Bridgerton",
+      "poster": "https://images.metahub.space/poster/medium/tt8740790/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5180504",
+      "type": "series",
+      "name": "The Witcher",
+      "poster": "https://images.metahub.space/poster/medium/tt5180504/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13918776",
+      "type": "series",
+      "name": "The Night Agent",
+      "poster": "https://images.metahub.space/poster/medium/tt13918776/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11737520",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/medium/tt11737520/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13622776",
+      "type": "series",
+      "name": "Ahsoka",
+      "poster": "https://images.metahub.space/poster/medium/tt13622776/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt12324366",
+      "type": "series",
+      "name": "Percy Jackson and the Olympians",
+      "poster": "https://images.metahub.space/poster/medium/tt12324366/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt15435876",
+      "type": "series",
+      "name": "The Penguin",
+      "poster": "https://images.metahub.space/poster/medium/tt15435876/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt15571732",
+      "type": "series",
+      "name": "Agatha All Along",
+      "poster": "https://images.metahub.space/poster/medium/tt15571732/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt18923754",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "poster": "https://images.metahub.space/poster/medium/tt18923754/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9253284",
+      "type": "series",
+      "name": "Andor",
+      "poster": "https://images.metahub.space/poster/medium/tt9253284/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://images.metahub.space/poster/medium/tt23649128/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt31806037",
+      "type": "series",
+      "name": "Adolescence",
+      "poster": "https://images.metahub.space/poster/medium/tt31806037/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt31938062",
+      "type": "series",
+      "name": "The Pitt",
+      "poster": "https://images.metahub.space/poster/medium/tt31938062/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "The Diplomat",
+      "poster": "https://images.metahub.space/poster/medium/tt17491088/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/medium/tt5875444/img",
+      "posterShape": "poster"
     }
   ]
 }

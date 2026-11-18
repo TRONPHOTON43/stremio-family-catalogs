@@ -25,18 +25,6 @@
       ]
     },
     {
-      "id": "tt0060196",
-      "type": "movie",
-      "name": "The Good, the Bad and the Ugly",
-      "poster": "https://images.metahub.space/poster/medium/tt0060196/img",
-      "posterShape": "poster",
-      "releaseInfo": "1966",
-      "description": "Leone's masterpiece; Eastwood at his coolest.",
-      "genres": [
-        "Western"
-      ]
-    },
-    {
       "id": "tt0064116",
       "type": "movie",
       "name": "Once Upon a Time in the West",
@@ -61,10 +49,10 @@
       ]
     },
     {
-      "id": "tt0099197",
+      "id": "tt0099348",
       "type": "movie",
       "name": "Dances with Wolves",
-      "poster": "https://images.metahub.space/poster/medium/tt0099197/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0099348/img",
       "posterShape": "poster",
       "releaseInfo": "1990",
       "description": "Costner's Oscar-winning epic.",
@@ -229,16 +217,123 @@
       ]
     },
     {
-      "id": "tt1853728",
+      "id": "tt0031971",
       "type": "movie",
-      "name": "Django Unchained",
-      "poster": "https://images.metahub.space/poster/medium/tt1853728/img",
-      "posterShape": "poster",
-      "releaseInfo": "2012",
-      "description": "Tarantino's western — for the grown-ups.",
-      "genres": [
-        "Western"
-      ]
+      "name": "Stagecoach",
+      "poster": "https://images.metahub.space/poster/medium/tt0031971/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0040724",
+      "type": "movie",
+      "name": "Red River",
+      "poster": "https://images.metahub.space/poster/medium/tt0040724/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0043137",
+      "type": "movie",
+      "name": "Winchester '73",
+      "poster": "https://images.metahub.space/poster/medium/tt0043137/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0056217",
+      "type": "movie",
+      "name": "The Man Who Shot Liberty Valance",
+      "poster": "https://images.metahub.space/poster/medium/tt0056217/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0056085",
+      "type": "movie",
+      "name": "How the West Was Won",
+      "poster": "https://images.metahub.space/poster/medium/tt0056085/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0067411",
+      "type": "movie",
+      "name": "McCabe & Mrs. Miller",
+      "poster": "https://images.metahub.space/poster/medium/tt0067411/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0081071",
+      "type": "movie",
+      "name": "The Long Riders",
+      "poster": "https://images.metahub.space/poster/medium/tt0081071/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0090022",
+      "type": "movie",
+      "name": "Silverado",
+      "poster": "https://images.metahub.space/poster/medium/tt0090022/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0096487",
+      "type": "movie",
+      "name": "Young Guns",
+      "poster": "https://images.metahub.space/poster/medium/tt0096487/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0111756",
+      "type": "movie",
+      "name": "Wyatt Earp",
+      "poster": "https://images.metahub.space/poster/medium/tt0111756/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0114214",
+      "type": "movie",
+      "name": "The Quick and the Dead",
+      "poster": "https://images.metahub.space/poster/medium/tt0114214/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0316356",
+      "type": "movie",
+      "name": "Open Range",
+      "poster": "https://images.metahub.space/poster/medium/tt0316356/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0800308",
+      "type": "movie",
+      "name": "Appaloosa",
+      "poster": "https://images.metahub.space/poster/medium/tt0800308/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0421238",
+      "type": "movie",
+      "name": "The Proposition",
+      "poster": "https://images.metahub.space/poster/medium/tt0421238/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1663202",
+      "type": "movie",
+      "name": "The Revenant",
+      "poster": "https://images.metahub.space/poster/medium/tt1663202/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2582782",
+      "type": "movie",
+      "name": "Hell or High Water",
+      "poster": "https://images.metahub.space/poster/medium/tt2582782/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5478478",
+      "type": "movie",
+      "name": "Hostiles",
+      "poster": "https://images.metahub.space/poster/medium/tt5478478/img",
+      "posterShape": "poster"
     }
   ]
 }

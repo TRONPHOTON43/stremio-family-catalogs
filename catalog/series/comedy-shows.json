@@ -124,7 +124,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt2467372/img",
       "posterShape": "poster",
       "releaseInfo": "2013",
-      "description": "The 99th precinct — noice, toit, wholesome.",
+      "description": "The 99th precinct \u2014 noice, toit, wholesome.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -202,7 +202,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0367279/img",
       "posterShape": "poster",
       "releaseInfo": "2003",
-      "description": "The Bluths — rich, ruined, ridiculous.",
+      "description": "The Bluths \u2014 rich, ruined, ridiculous.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -259,6 +259,111 @@
         "Comedy",
         "Sitcom"
       ]
+    },
+    {
+      "id": "tt4955642",
+      "type": "series",
+      "name": "The Good Place",
+      "poster": "https://images.metahub.space/poster/medium/tt4955642/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4477976",
+      "type": "series",
+      "name": "Superstore",
+      "poster": "https://images.metahub.space/poster/medium/tt4477976/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5788792",
+      "type": "series",
+      "name": "The Marvelous Mrs. Maisel",
+      "poster": "https://images.metahub.space/poster/medium/tt5788792/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5687612",
+      "type": "series",
+      "name": "Fleabag",
+      "poster": "https://images.metahub.space/poster/medium/tt5687612/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1759761",
+      "type": "series",
+      "name": "Veep",
+      "poster": "https://images.metahub.space/poster/medium/tt1759761/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2575988",
+      "type": "series",
+      "name": "Silicon Valley",
+      "poster": "https://images.metahub.space/poster/medium/tt2575988/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0264235",
+      "type": "series",
+      "name": "Curb Your Enthusiasm",
+      "poster": "https://images.metahub.space/poster/medium/tt0264235/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0472954",
+      "type": "series",
+      "name": "It's Always Sunny in Philadelphia",
+      "poster": "https://images.metahub.space/poster/medium/tt0472954/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1826940",
+      "type": "series",
+      "name": "New Girl",
+      "poster": "https://images.metahub.space/poster/medium/tt1826940/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1587678",
+      "type": "series",
+      "name": "Happy Endings",
+      "poster": "https://images.metahub.space/poster/medium/tt1587678/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2211129",
+      "type": "series",
+      "name": "The Mindy Project",
+      "poster": "https://images.metahub.space/poster/medium/tt2211129/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2578560",
+      "type": "series",
+      "name": "Broad City",
+      "poster": "https://images.metahub.space/poster/medium/tt2578560/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3339966",
+      "type": "series",
+      "name": "Unbreakable Kimmy Schmidt",
+      "poster": "https://images.metahub.space/poster/medium/tt3339966/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3609352",
+      "type": "series",
+      "name": "Grace and Frankie",
+      "poster": "https://images.metahub.space/poster/medium/tt3609352/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5339440",
+      "type": "series",
+      "name": "One Day at a Time",
+      "poster": "https://images.metahub.space/poster/medium/tt5339440/img",
+      "posterShape": "poster"
     }
   ]
 }

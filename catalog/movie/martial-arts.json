@@ -105,10 +105,10 @@
       ]
     },
     {
-      "id": "tt0423865",
+      "id": "tt0368909",
       "type": "movie",
       "name": "Ong-Bak: The Thai Warrior",
-      "poster": "https://images.metahub.space/poster/medium/tt0423865/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0368909/img",
       "posterShape": "poster",
       "releaseInfo": "2003",
       "description": "Tony Jaa arrives like a thunderbolt.",
@@ -163,7 +163,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0077594/img",
       "posterShape": "poster",
       "releaseInfo": "1978",
-      "description": "Lee's final film — and the famous yellow jumpsuit.",
+      "description": "Lee's final film \u2014 and the famous yellow jumpsuit.",
       "genres": [
         "Martial Arts",
         "Action"
@@ -190,19 +190,6 @@
       "posterShape": "poster",
       "releaseInfo": "1995",
       "description": "The film that broke Jackie into America.",
-      "genres": [
-        "Martial Arts",
-        "Action"
-      ]
-    },
-    {
-      "id": "tt0120812",
-      "type": "movie",
-      "name": "Rush Hour",
-      "poster": "https://images.metahub.space/poster/medium/tt0120812/img",
-      "posterShape": "poster",
-      "releaseInfo": "1998",
-      "description": "Jackie Chan & Chris Tucker — buddy-cop gold.",
       "genres": [
         "Martial Arts",
         "Action"
@@ -241,7 +228,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt1386932/img",
       "posterShape": "poster",
       "releaseInfo": "2010",
-      "description": "Ip Man takes on Hong Kong — and a British boxer.",
+      "description": "Ip Man takes on Hong Kong \u2014 and a British boxer.",
       "genres": [
         "Martial Arts",
         "Action"
@@ -254,11 +241,123 @@
       "poster": "https://images.metahub.space/poster/medium/tt1899353/img",
       "posterShape": "poster",
       "releaseInfo": "2011",
-      "description": "Relentless pencak silat — strictly grown-ups.",
+      "description": "Relentless pencak silat \u2014 strictly grown-ups.",
       "genres": [
         "Martial Arts",
         "Action"
       ]
+    },
+    {
+      "id": "tt2888046",
+      "type": "movie",
+      "name": "Ip Man 3",
+      "poster": "https://images.metahub.space/poster/medium/tt2888046/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2076298",
+      "type": "movie",
+      "name": "Ip Man 4: The Finale",
+      "poster": "https://images.metahub.space/poster/medium/tt2076298/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2265171",
+      "type": "movie",
+      "name": "The Raid 2",
+      "poster": "https://images.metahub.space/poster/medium/tt2265171/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1368116",
+      "type": "movie",
+      "name": "Merantau",
+      "poster": "https://images.metahub.space/poster/medium/tt1368116/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6116856",
+      "type": "movie",
+      "name": "The Night Comes for Us",
+      "poster": "https://images.metahub.space/poster/medium/tt6116856/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5147214",
+      "type": "movie",
+      "name": "Headshot",
+      "poster": "https://images.metahub.space/poster/medium/tt5147214/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0478024",
+      "type": "movie",
+      "name": "Kill Zone",
+      "poster": "https://images.metahub.space/poster/medium/tt0478024/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0992911",
+      "type": "movie",
+      "name": "Flash Point",
+      "poster": "https://images.metahub.space/poster/medium/tt0992911/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0427954",
+      "type": "movie",
+      "name": "The Protector",
+      "poster": "https://images.metahub.space/poster/medium/tt0427954/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1183252",
+      "type": "movie",
+      "name": "Chocolate",
+      "poster": "https://images.metahub.space/poster/medium/tt1183252/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1527788",
+      "type": "movie",
+      "name": "The Man from Nowhere",
+      "poster": "https://images.metahub.space/poster/medium/tt1527788/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt6777338",
+      "type": "movie",
+      "name": "The Villainess",
+      "poster": "https://images.metahub.space/poster/medium/tt6777338/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0266697",
+      "type": "movie",
+      "name": "Kill Bill: Vol. 1",
+      "poster": "https://images.metahub.space/poster/medium/tt0266697/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0378194",
+      "type": "movie",
+      "name": "Kill Bill: Vol. 2",
+      "poster": "https://images.metahub.space/poster/medium/tt0378194/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0385004",
+      "type": "movie",
+      "name": "House of Flying Daggers",
+      "poster": "https://images.metahub.space/poster/medium/tt0385004/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1436045",
+      "type": "movie",
+      "name": "13 Assassins",
+      "poster": "https://images.metahub.space/poster/medium/tt1436045/img",
+      "posterShape": "poster"
     }
   ]
 }

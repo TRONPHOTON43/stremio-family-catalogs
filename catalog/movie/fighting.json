@@ -1,39 +1,13 @@
 {
   "metas": [
     {
-      "id": "tt0075148",
-      "type": "movie",
-      "name": "Rocky",
-      "poster": "https://images.metahub.space/poster/medium/tt0075148/img",
-      "posterShape": "poster",
-      "releaseInfo": "1976",
-      "description": "The original underdog story. Best Picture winner.",
-      "genres": [
-        "Drama",
-        "Sport"
-      ]
-    },
-    {
       "id": "tt0081398",
       "type": "movie",
       "name": "Raging Bull",
       "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
       "posterShape": "poster",
       "releaseInfo": "1980",
-      "description": "De Niro & Scorsese — heavy, and not for kids.",
-      "genres": [
-        "Drama",
-        "Sport"
-      ]
-    },
-    {
-      "id": "tt0087538",
-      "type": "movie",
-      "name": "The Karate Kid",
-      "poster": "https://images.metahub.space/poster/medium/tt0087538/img",
-      "posterShape": "poster",
-      "releaseInfo": "1984",
-      "description": "Wax on, wax off — the family favorite.",
+      "description": "De Niro & Scorsese \u2014 heavy, and not for kids.",
       "genres": [
         "Drama",
         "Sport"
@@ -98,7 +72,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0433035/img",
       "posterShape": "poster",
       "releaseInfo": "2011",
-      "description": "Robot boxing — secretly a sweet dad film.",
+      "description": "Robot boxing \u2014 secretly a sweet dad film.",
       "genres": [
         "Drama",
         "Sport"
@@ -150,7 +124,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0089927/img",
       "posterShape": "poster",
       "releaseInfo": "1985",
-      "description": "Rocky vs. Drago — peak 80s.",
+      "description": "Rocky vs. Drago \u2014 peak 80s.",
       "genres": [
         "Drama",
         "Sport"
@@ -176,7 +150,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0174856/img",
       "posterShape": "poster",
       "releaseInfo": "1999",
-      "description": "Denzel as boxer Rubin “Hurricane” Carter.",
+      "description": "Denzel as boxer Rubin \u201cHurricane\u201d Carter.",
       "genres": [
         "Drama",
         "Sport"
@@ -196,10 +170,10 @@
       ]
     },
     {
-      "id": "tt0352245",
+      "id": "tt0352248",
       "type": "movie",
       "name": "Cinderella Man",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4f/Cinderella_Man_poster.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt0352248/img",
       "posterShape": "poster",
       "releaseInfo": "2005",
       "description": "Depression-era boxing and dignity.",
@@ -235,10 +209,10 @@
       ]
     },
     {
-      "id": "tt1023483",
+      "id": "tt1023111",
       "type": "movie",
       "name": "Never Back Down",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Never_back_down.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt1023111/img",
       "posterShape": "poster",
       "releaseInfo": "2008",
       "description": "High-school MMA underground.",
@@ -259,6 +233,125 @@
         "Drama",
         "Sport"
       ]
+    },
+    {
+      "id": "tt0084602",
+      "type": "movie",
+      "name": "Rocky III",
+      "poster": "https://images.metahub.space/poster/medium/tt0084602/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0100507",
+      "type": "movie",
+      "name": "Rocky V",
+      "poster": "https://images.metahub.space/poster/medium/tt0100507/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11145118",
+      "type": "movie",
+      "name": "Creed III",
+      "poster": "https://images.metahub.space/poster/medium/tt11145118/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1620935",
+      "type": "movie",
+      "name": "Bleed for This",
+      "poster": "https://images.metahub.space/poster/medium/tt1620935/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1781827",
+      "type": "movie",
+      "name": "Hands of Stone",
+      "poster": "https://images.metahub.space/poster/medium/tt1781827/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1610525",
+      "type": "movie",
+      "name": "Chuck",
+      "poster": "https://images.metahub.space/poster/medium/tt1610525/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0118760",
+      "type": "movie",
+      "name": "The Boxer",
+      "poster": "https://images.metahub.space/poster/medium/tt0118760/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0210075",
+      "type": "movie",
+      "name": "Girlfight",
+      "poster": "https://images.metahub.space/poster/medium/tt0210075/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0097647",
+      "type": "movie",
+      "name": "The Karate Kid Part III",
+      "poster": "https://images.metahub.space/poster/medium/tt0097647/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0100029",
+      "type": "movie",
+      "name": "Lionheart",
+      "poster": "https://images.metahub.space/poster/medium/tt0100029/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0073756",
+      "type": "movie",
+      "name": "The Street Fighter",
+      "poster": "https://images.metahub.space/poster/medium/tt0073756/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0041859",
+      "type": "movie",
+      "name": "The Set-Up",
+      "poster": "https://images.metahub.space/poster/medium/tt0041859/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0039204",
+      "type": "movie",
+      "name": "Body and Soul",
+      "poster": "https://images.metahub.space/poster/medium/tt0039204/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0041239",
+      "type": "movie",
+      "name": "Champion",
+      "poster": "https://images.metahub.space/poster/medium/tt0041239/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0049669",
+      "type": "movie",
+      "name": "Requiem for a Heavyweight",
+      "poster": "https://images.metahub.space/poster/medium/tt0049669/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0068575",
+      "type": "movie",
+      "name": "Fat City",
+      "poster": "https://images.metahub.space/poster/medium/tt0068575/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0118147",
+      "type": "movie",
+      "name": "When We Were Kings",
+      "poster": "https://images.metahub.space/poster/medium/tt0118147/img",
+      "posterShape": "poster"
     }
   ]
 }

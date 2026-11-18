@@ -7,7 +7,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0075596/img",
       "posterShape": "poster",
       "releaseInfo": "1977",
-      "description": "One of your reference points — Jack Tripper's farce.",
+      "description": "One of your reference points \u2014 Jack Tripper's farce.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -46,7 +46,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0285351/img",
       "posterShape": "poster",
       "releaseInfo": "2001",
-      "description": "Straight from your list — Jim Belushi's family man.",
+      "description": "Straight from your list \u2014 Jim Belushi's family man.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -66,13 +66,13 @@
       ]
     },
     {
-      "id": "tt1499669",
+      "id": "tt1608180",
       "type": "series",
       "name": "Mike & Molly",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Mike_%26_Molly_intertitle.png",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt1608180/img",
+      "posterShape": "poster",
       "releaseInfo": "2010",
-      "description": "Your anchor pick — Billy Gardell's big-hearted hit.",
+      "description": "Your anchor pick \u2014 Billy Gardell's big-hearted hit.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -92,11 +92,11 @@
       ]
     },
     {
-      "id": "tt2660924",
+      "id": "tt2660806",
       "type": "series",
       "name": "Mom",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mom_TV_series_logo.png",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt2660806/img",
+      "posterShape": "poster",
       "releaseInfo": "2013",
       "description": "Mother-daughter comedy from the Lorre stable.",
       "genres": [
@@ -111,17 +111,17 @@
       "poster": "https://images.metahub.space/poster/medium/tt10329024/img",
       "posterShape": "poster",
       "releaseInfo": "2019",
-      "description": "From your list — Detroit meets Nigeria, sweetly.",
+      "description": "From your list \u2014 Detroit meets Nigeria, sweetly.",
       "genres": [
         "Comedy",
         "Sitcom"
       ]
     },
     {
-      "id": "tt0278155",
+      "id": "tt0284722",
       "type": "series",
       "name": "Reba",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/Reba_Season_1.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt0284722/img",
       "posterShape": "poster",
       "releaseInfo": "2001",
       "description": "Reba McEntire holds a chaotic family together.",
@@ -131,24 +131,24 @@
       ]
     },
     {
-      "id": "tt0313036",
+      "id": "tt0310460",
       "type": "series",
       "name": "George Lopez",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/George_Lopez_show_logo.svg/330px-George_Lopez_show_logo.svg.png",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt0310460/img",
+      "posterShape": "poster",
       "releaseInfo": "2002",
-      "description": "Lopez's family sitcom — a syndication staple.",
+      "description": "Lopez's family sitcom \u2014 a syndication staple.",
       "genres": [
         "Comedy",
         "Sitcom"
       ]
     },
     {
-      "id": "tt0321017",
+      "id": "tt0320970",
       "type": "series",
       "name": "Still Standing",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Still_Standing_TV_screenshot.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt0320970/img",
+      "posterShape": "poster",
       "releaseInfo": "2002",
       "description": "High-school sweethearts raising kids their way.",
       "genres": [
@@ -163,7 +163,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0369179/img",
       "posterShape": "poster",
       "releaseInfo": "2003",
-      "description": "The other Lorre giant — Charlie, Alan, and Jake.",
+      "description": "The other Lorre giant \u2014 Charlie, Alan, and Jake.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -189,17 +189,17 @@
       "poster": "https://images.metahub.space/poster/medium/tt3487356/img",
       "posterShape": "poster",
       "releaseInfo": "2014",
-      "description": "The Johnsons — funny and sharp.",
+      "description": "The Johnsons \u2014 funny and sharp.",
       "genres": [
         "Comedy",
         "Sitcom"
       ]
     },
     {
-      "id": "tt4384084",
+      "id": "tt4384086",
       "type": "series",
       "name": "Life in Pieces",
-      "poster": "https://images.metahub.space/poster/medium/tt4384084/img",
+      "poster": "https://images.metahub.space/poster/medium/tt4384086/img",
       "posterShape": "poster",
       "releaseInfo": "2015",
       "description": "One big family, four short stories per episode.",
@@ -215,7 +215,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt3986586/img",
       "posterShape": "poster",
       "releaseInfo": "2016",
-      "description": "The Tanners return — very parents-friendly.",
+      "description": "The Tanners return \u2014 very parents-friendly.",
       "genres": [
         "Comedy",
         "Sitcom"
@@ -248,10 +248,10 @@
       ]
     },
     {
-      "id": "tt7942742",
+      "id": "tt7942794",
       "type": "series",
       "name": "The Neighborhood",
-      "poster": "https://images.metahub.space/poster/medium/tt7942742/img",
+      "poster": "https://images.metahub.space/poster/medium/tt7942794/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "A Midwestern family moves to LA.",
@@ -259,6 +259,111 @@
         "Comedy",
         "Sitcom"
       ]
+    },
+    {
+      "id": "tt0247144",
+      "type": "series",
+      "name": "Yes, Dear",
+      "poster": "https://images.metahub.space/poster/medium/tt0247144/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0460692",
+      "type": "series",
+      "name": "The War at Home",
+      "poster": "https://images.metahub.space/poster/medium/tt0460692/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0759475",
+      "type": "series",
+      "name": "Til Death",
+      "poster": "https://images.metahub.space/poster/medium/tt0759475/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0790772",
+      "type": "series",
+      "name": "Rules of Engagement",
+      "poster": "https://images.metahub.space/poster/medium/tt0790772/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0462128",
+      "type": "series",
+      "name": "The New Adventures of Old Christine",
+      "poster": "https://images.metahub.space/poster/medium/tt0462128/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1597420",
+      "type": "series",
+      "name": "Melissa & Joey",
+      "poster": "https://images.metahub.space/poster/medium/tt1597420/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2177489",
+      "type": "series",
+      "name": "Baby Daddy",
+      "poster": "https://images.metahub.space/poster/medium/tt2177489/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2737290",
+      "type": "series",
+      "name": "The Millers",
+      "poster": "https://images.metahub.space/poster/medium/tt2737290/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3434378",
+      "type": "series",
+      "name": "The McCarthys",
+      "poster": "https://images.metahub.space/poster/medium/tt3434378/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11116204",
+      "type": "series",
+      "name": "United States of Al",
+      "poster": "https://images.metahub.space/poster/medium/tt11116204/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt14852960",
+      "type": "series",
+      "name": "Lopez vs Lopez",
+      "poster": "https://images.metahub.space/poster/medium/tt14852960/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt13798316",
+      "type": "series",
+      "name": "Night Court",
+      "poster": "https://images.metahub.space/poster/medium/tt13798316/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8595140",
+      "type": "series",
+      "name": "The Conners",
+      "poster": "https://images.metahub.space/poster/medium/tt8595140/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt10945036",
+      "type": "series",
+      "name": "The Upshaws",
+      "poster": "https://images.metahub.space/poster/medium/tt10945036/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9153270",
+      "type": "series",
+      "name": "Family Reunion",
+      "poster": "https://images.metahub.space/poster/medium/tt9153270/img",
+      "posterShape": "poster"
     }
   ]
 }

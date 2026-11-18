@@ -20,7 +20,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt9199798/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
-      "description": "Six stories about the human–dog bond. Kleenex advised.",
+      "description": "Six stories about the human\u2013dog bond. Kleenex advised.",
       "genres": [
         "Documentary",
         "Animals"
@@ -40,11 +40,11 @@
       ]
     },
     {
-      "id": "tt10382480",
+      "id": "tt9805708",
       "type": "series",
       "name": "Seven Worlds, One Planet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ef/Seven_Worlds%2C_One_Planet.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt9805708/img",
+      "posterShape": "poster",
       "releaseInfo": "2019",
       "description": "One continent per episode, Attenborough narrating.",
       "genres": [
@@ -53,10 +53,10 @@
       ]
     },
     {
-      "id": "tt6332742",
+      "id": "tt6443078",
       "type": "series",
       "name": "Spy in the Wild",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7c/Spy_in_the_Wild_BBC_cover.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt6443078/img",
       "posterShape": "poster",
       "releaseInfo": "2017",
       "description": "Robot animals film the real ones, eye to eye.",
@@ -66,13 +66,13 @@
       ]
     },
     {
-      "id": "tt0122351",
+      "id": "tt0229119",
       "type": "series",
       "name": "The Crocodile Hunter",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Crocodile_Hunter_Logo.png",
-      "posterShape": "square",
+      "poster": "https://images.metahub.space/poster/medium/tt0229119/img",
+      "posterShape": "poster",
       "releaseInfo": "1996",
-      "description": "Steve Irwin — “Crikey!” — the original.",
+      "description": "Steve Irwin \u2014 \u201cCrikey!\u201d \u2014 the original.",
       "genres": [
         "Documentary",
         "Animals"
@@ -92,10 +92,10 @@
       ]
     },
     {
-      "id": "tt0443398",
+      "id": "tt0423642",
       "type": "series",
       "name": "The Dog Whisperer",
-      "poster": "https://images.metahub.space/poster/medium/tt0443398/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0423642/img",
       "posterShape": "poster",
       "releaseInfo": "2004",
       "description": "Cesar Millan rehabilitates dogs, trains people.",
@@ -105,10 +105,10 @@
       ]
     },
     {
-      "id": "tt1110028",
+      "id": "tt1232509",
       "type": "series",
       "name": "Orangutan Island",
-      "poster": "https://images.metahub.space/poster/medium/tt1110028/img",
+      "poster": "https://images.metahub.space/poster/medium/tt1232509/img",
       "posterShape": "poster",
       "releaseInfo": "2007",
       "description": "Orphaned orangutans learn to be wild.",
@@ -131,10 +131,10 @@
       ]
     },
     {
-      "id": "tt1503179",
+      "id": "tt1538145",
       "type": "series",
       "name": "Pit Bulls and Parolees",
-      "poster": "https://images.metahub.space/poster/medium/tt1503179/img",
+      "poster": "https://images.metahub.space/poster/medium/tt1538145/img",
       "posterShape": "poster",
       "releaseInfo": "2009",
       "description": "Rescue dogs and second chances in New Orleans.",
@@ -144,11 +144,11 @@
       ]
     },
     {
-      "id": "tt2723908",
+      "id": "tt1723626",
       "type": "series",
       "name": "Bondi Vet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/Bondi-vet.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt1723626/img",
+      "posterShape": "poster",
       "releaseInfo": "2009",
       "description": "Dr. Chris Brown rescues Sydney's animals.",
       "genres": [
@@ -157,11 +157,11 @@
       ]
     },
     {
-      "id": "tt2298646",
+      "id": "tt2136396",
       "type": "series",
       "name": "The Incredible Dr. Pol",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Incredible_Dr._Pol_logo.png",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt2136396/img",
+      "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "A Michigan vet and a parade of farm animals.",
       "genres": [
@@ -170,23 +170,23 @@
       ]
     },
     {
-      "id": "tt2070791",
+      "id": "tt2197519",
       "type": "series",
       "name": "Too Cute!",
-      "poster": "https://images.metahub.space/poster/medium/tt2070791/img",
+      "poster": "https://images.metahub.space/poster/medium/tt2197519/img",
       "posterShape": "poster",
       "releaseInfo": "2011",
-      "description": "Baby animals — nothing but baby animals.",
+      "description": "Baby animals \u2014 nothing but baby animals.",
       "genres": [
         "Documentary",
         "Animals"
       ]
     },
     {
-      "id": "tt2401167",
+      "id": "tt2181679",
       "type": "series",
       "name": "Unlikely Animal Friends",
-      "poster": "https://images.metahub.space/poster/medium/tt2401167/img",
+      "poster": "https://images.metahub.space/poster/medium/tt2181679/img",
       "posterShape": "poster",
       "releaseInfo": "2012",
       "description": "Friendships that shouldn't work, but do.",
@@ -196,10 +196,10 @@
       ]
     },
     {
-      "id": "tt4384766",
+      "id": "tt3593456",
       "type": "series",
       "name": "Dr. Oakley, Yukon Vet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/a/ac/Title_card_for_Dr._Oakley_Yukon_Vet.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt3593456/img",
       "posterShape": "poster",
       "releaseInfo": "2014",
       "description": "House calls across the Yukon wilderness.",
@@ -209,11 +209,11 @@
       ]
     },
     {
-      "id": "tt6130884",
+      "id": "tt8343762",
       "type": "series",
       "name": "The Secret Life of the Zoo",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/Secret_Life_of_the_Zoo_title_card.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt8343762/img",
+      "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "Chester Zoo's animals, filmed up close.",
       "genres": [
@@ -222,10 +222,10 @@
       ]
     },
     {
-      "id": "tt6324678",
+      "id": "tt5815824",
       "type": "series",
       "name": "72 Cutest Animals",
-      "poster": "https://images.metahub.space/poster/medium/tt6324678/img",
+      "poster": "https://images.metahub.space/poster/medium/tt5815824/img",
       "posterShape": "poster",
       "releaseInfo": "2016",
       "description": "Exactly what the title promises.",
@@ -235,10 +235,10 @@
       ]
     },
     {
-      "id": "tt6493178",
+      "id": "tt6440422",
       "type": "series",
       "name": "The Zoo",
-      "poster": "https://images.metahub.space/poster/medium/tt6493178/img",
+      "poster": "https://images.metahub.space/poster/medium/tt6440422/img",
       "posterShape": "poster",
       "releaseInfo": "2017",
       "description": "Behind the scenes at the Bronx Zoo.",
@@ -248,10 +248,10 @@
       ]
     },
     {
-      "id": "tt8929302",
+      "id": "tt8994238",
       "type": "series",
       "name": "Crikey! It's the Irwins",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/Crikey%21_It%27s_the_Irwins.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt8994238/img",
       "posterShape": "poster",
       "releaseInfo": "2018",
       "description": "Steve's family carries on at Australia Zoo.",
@@ -259,6 +259,111 @@
         "Documentary",
         "Animals"
       ]
+    },
+    {
+      "id": "tt0768973",
+      "type": "series",
+      "name": "Big Cat Diary",
+      "poster": "https://images.metahub.space/poster/medium/tt0768973/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1090018",
+      "type": "series",
+      "name": "Monkey Life",
+      "poster": "https://images.metahub.space/poster/medium/tt1090018/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt9780390",
+      "type": "series",
+      "name": "The Aquarium",
+      "poster": "https://images.metahub.space/poster/medium/tt9780390/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt8879238",
+      "type": "series",
+      "name": "Secrets of the Zoo",
+      "poster": "https://images.metahub.space/poster/medium/tt8879238/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3713822",
+      "type": "series",
+      "name": "The Supervet",
+      "poster": "https://images.metahub.space/poster/medium/tt3713822/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt11076876",
+      "type": "series",
+      "name": "The Dog House",
+      "poster": "https://images.metahub.space/poster/medium/tt11076876/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt10750498",
+      "type": "series",
+      "name": "Animal Babies: First Year on Earth",
+      "poster": "https://images.metahub.space/poster/medium/tt10750498/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0135095",
+      "type": "series",
+      "name": "Life on Earth",
+      "poster": "https://images.metahub.space/poster/medium/tt0135095/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1476750",
+      "type": "series",
+      "name": "River Monsters",
+      "poster": "https://images.metahub.space/poster/medium/tt1476750/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2017931",
+      "type": "series",
+      "name": "Monster Fish",
+      "poster": "https://images.metahub.space/poster/medium/tt2017931/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2350779",
+      "type": "series",
+      "name": "Ocean Giants",
+      "poster": "https://images.metahub.space/poster/medium/tt2350779/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4065694",
+      "type": "series",
+      "name": "Wildest India",
+      "poster": "https://images.metahub.space/poster/medium/tt4065694/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0318912",
+      "type": "series",
+      "name": "Natural World",
+      "poster": "https://images.metahub.space/poster/medium/tt0318912/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0083452",
+      "type": "series",
+      "name": "Nature",
+      "poster": "https://images.metahub.space/poster/medium/tt0083452/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3149940",
+      "type": "series",
+      "name": "The Secret Life of Elephants",
+      "poster": "https://images.metahub.space/poster/medium/tt3149940/img",
+      "posterShape": "poster"
     }
   ]
 }

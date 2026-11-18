@@ -131,11 +131,11 @@
       ]
     },
     {
-      "id": "tt1436726",
+      "id": "tt1458521",
       "type": "series",
       "name": "South Pacific",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/BBCSouthPacific.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt1458521/img",
+      "posterShape": "poster",
       "releaseInfo": "2009",
       "description": "The ocean's strangest islands.",
       "genres": [
@@ -144,10 +144,10 @@
       ]
     },
     {
-      "id": "tt1839863",
+      "id": "tt1842793",
       "type": "series",
       "name": "Madagascar",
-      "poster": "https://images.metahub.space/poster/medium/tt1839863/img",
+      "poster": "https://images.metahub.space/poster/medium/tt1842793/img",
       "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "The island that evolution built alone.",
@@ -170,11 +170,11 @@
       ]
     },
     {
-      "id": "tt2410738",
+      "id": "tt2571774",
       "type": "series",
       "name": "Africa",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b9/BBC_Africa_title_card.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt2571774/img",
+      "posterShape": "poster",
       "releaseInfo": "2013",
       "description": "Attenborough tours a continent of extremes.",
       "genres": [
@@ -183,11 +183,11 @@
       ]
     },
     {
-      "id": "tt4446894",
+      "id": "tt5167198",
       "type": "series",
       "name": "The Hunt",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Hunt_%28BBC_series%29_titlecard.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt5167198/img",
+      "posterShape": "poster",
       "releaseInfo": "2015",
       "description": "Predator vs. prey, filmed like a thriller.",
       "genres": [
@@ -196,10 +196,10 @@
       ]
     },
     {
-      "id": "tt10769766",
+      "id": "tt11497922",
       "type": "series",
       "name": "Night on Earth",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/2/21/Night_on_earth_poster.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt11497922/img",
       "posterShape": "poster",
       "releaseInfo": "2020",
       "description": "Wildlife after dark, in living color.",
@@ -209,23 +209,10 @@
       ]
     },
     {
-      "id": "tt11777802",
-      "type": "series",
-      "name": "A Perfect Planet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/A_Perfect_Planet.png",
-      "posterShape": "landscape",
-      "releaseInfo": "2021",
-      "description": "The forces that make Earth habitable.",
-      "genres": [
-        "Documentary",
-        "Nature"
-      ]
-    },
-    {
-      "id": "tt15495408",
+      "id": "tt16986646",
       "type": "series",
       "name": "The Green Planet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/7/78/The_Green_Planet_2022_cover.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt16986646/img",
       "posterShape": "poster",
       "releaseInfo": "2022",
       "description": "Plants get their own Planet Earth.",
@@ -235,11 +222,11 @@
       ]
     },
     {
-      "id": "tt14433666",
+      "id": "tt10324164",
       "type": "series",
       "name": "Prehistoric Planet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/Prehistoric_Planet_2022_cover.jpg",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt10324164/img",
+      "posterShape": "poster",
       "releaseInfo": "2022",
       "description": "Dinosaurs with Apple-sized spectacle.",
       "genres": [
@@ -248,10 +235,10 @@
       ]
     },
     {
-      "id": "tt16346748",
+      "id": "tt23181388",
       "type": "series",
       "name": "Life on Our Planet",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Life_on_Our_Planet.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt23181388/img",
       "posterShape": "poster",
       "releaseInfo": "2023",
       "description": "Morgan Freeman narrates life's 4-billion-year story.",
@@ -259,6 +246,118 @@
         "Documentary",
         "Nature"
       ]
+    },
+    {
+      "id": "tt9805678",
+      "type": "series",
+      "name": "Frozen Planet II",
+      "poster": "https://images.metahub.space/poster/medium/tt9805678/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt27739990",
+      "type": "series",
+      "name": "The Americas",
+      "poster": "https://images.metahub.space/poster/medium/tt27739990/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt32869282",
+      "type": "series",
+      "name": "Asia",
+      "poster": "https://images.metahub.space/poster/medium/tt32869282/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt15040278",
+      "type": "series",
+      "name": "Mammals",
+      "poster": "https://images.metahub.space/poster/medium/tt15040278/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt23844450",
+      "type": "series",
+      "name": "Wild Isles",
+      "poster": "https://images.metahub.space/poster/medium/tt23844450/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt15762026",
+      "type": "series",
+      "name": "The Mating Game",
+      "poster": "https://images.metahub.space/poster/medium/tt15762026/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0760222",
+      "type": "series",
+      "name": "Life in the Undergrowth",
+      "poster": "https://images.metahub.space/poster/medium/tt0760222/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1766363",
+      "type": "series",
+      "name": "First Life",
+      "poster": "https://images.metahub.space/poster/medium/tt1766363/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0175394",
+      "type": "series",
+      "name": "The Life of Birds",
+      "poster": "https://images.metahub.space/poster/medium/tt0175394/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0123360",
+      "type": "series",
+      "name": "The Private Life of Plants",
+      "poster": "https://images.metahub.space/poster/medium/tt0123360/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1181716",
+      "type": "series",
+      "name": "Life in Cold Blood",
+      "poster": "https://images.metahub.space/poster/medium/tt1181716/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0133318",
+      "type": "series",
+      "name": "The Trials of Life",
+      "poster": "https://images.metahub.space/poster/medium/tt0133318/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0135096",
+      "type": "series",
+      "name": "The Living Planet",
+      "poster": "https://images.metahub.space/poster/medium/tt0135096/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0884762",
+      "type": "series",
+      "name": "Wild China",
+      "poster": "https://images.metahub.space/poster/medium/tt0884762/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2777876",
+      "type": "series",
+      "name": "Wild Arabia",
+      "poster": "https://images.metahub.space/poster/medium/tt2777876/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1380596",
+      "type": "series",
+      "name": "Nature's Great Events",
+      "poster": "https://images.metahub.space/poster/medium/tt1380596/img",
+      "posterShape": "poster"
     }
   ]
 }

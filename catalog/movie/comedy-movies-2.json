@@ -20,7 +20,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0349205/img",
       "posterShape": "poster",
       "releaseInfo": "2003",
-      "description": "Your reference film — twelve kids, one dad.",
+      "description": "Your reference film \u2014 twelve kids, one dad.",
       "genres": [
         "Comedy",
         "Family"
@@ -72,7 +72,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0395699/img",
       "posterShape": "poster",
       "releaseInfo": "2005",
-      "description": "Vin Diesel, Navy SEAL… babysitter.",
+      "description": "Vin Diesel, Navy SEAL\u2026 babysitter.",
       "genres": [
         "Comedy",
         "Family"
@@ -105,10 +105,10 @@
       ]
     },
     {
-      "id": "tt1033575",
+      "id": "tt1389137",
       "type": "movie",
       "name": "We Bought a Zoo",
-      "poster": "https://images.metahub.space/poster/medium/tt1033575/img",
+      "poster": "https://images.metahub.space/poster/medium/tt1389137/img",
       "posterShape": "poster",
       "releaseInfo": "2011",
       "description": "Matt Damon buys a zoo, heals a family.",
@@ -124,7 +124,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt1528854/img",
       "posterShape": "poster",
       "releaseInfo": "2015",
-      "description": "Stepdad vs. dad — Ferrell & Wahlberg.",
+      "description": "Stepdad vs. dad \u2014 Ferrell & Wahlberg.",
       "genres": [
         "Comedy",
         "Family"
@@ -176,7 +176,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0104431/img",
       "posterShape": "poster",
       "releaseInfo": "1992",
-      "description": "Kevin does Manhattan — and the Plaza.",
+      "description": "Kevin does Manhattan \u2014 and the Plaza.",
       "genres": [
         "Comedy",
         "Family"
@@ -222,10 +222,10 @@
       ]
     },
     {
-      "id": "tt0194134",
+      "id": "tt0164912",
       "type": "movie",
       "name": "Stuart Little",
-      "poster": "https://images.metahub.space/poster/medium/tt0194134/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0164912/img",
       "posterShape": "poster",
       "releaseInfo": "1999",
       "description": "A mouse joins the family.",
@@ -259,6 +259,111 @@
         "Comedy",
         "Family"
       ]
+    },
+    {
+      "id": "tt0443295",
+      "type": "movie",
+      "name": "Yours, Mine & Ours",
+      "poster": "https://images.metahub.space/poster/medium/tt0443295/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0106701",
+      "type": "movie",
+      "name": "Dennis the Menace",
+      "poster": "https://images.metahub.space/poster/medium/tt0106701/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0109190",
+      "type": "movie",
+      "name": "Baby's Day Out",
+      "poster": "https://images.metahub.space/poster/medium/tt0109190/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0110366",
+      "type": "movie",
+      "name": "The Little Rascals",
+      "poster": "https://images.metahub.space/poster/medium/tt0110366/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0110989",
+      "type": "movie",
+      "name": "Richie Rich",
+      "poster": "https://images.metahub.space/poster/medium/tt0110989/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0100419",
+      "type": "movie",
+      "name": "Problem Child",
+      "poster": "https://images.metahub.space/poster/medium/tt0100419/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0101635",
+      "type": "movie",
+      "name": "Curly Sue",
+      "poster": "https://images.metahub.space/poster/medium/tt0101635/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0104868",
+      "type": "movie",
+      "name": "The Mighty Ducks",
+      "poster": "https://images.metahub.space/poster/medium/tt0104868/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0108037",
+      "type": "movie",
+      "name": "The Sandlot",
+      "poster": "https://images.metahub.space/poster/medium/tt0108037/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0109127",
+      "type": "movie",
+      "name": "Angels in the Outfield",
+      "poster": "https://images.metahub.space/poster/medium/tt0109127/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0110364",
+      "type": "movie",
+      "name": "Little Giants",
+      "poster": "https://images.metahub.space/poster/medium/tt0110364/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0113419",
+      "type": "movie",
+      "name": "The Indian in the Cupboard",
+      "poster": "https://images.metahub.space/poster/medium/tt0113419/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0116705",
+      "type": "movie",
+      "name": "Jingle All the Way",
+      "poster": "https://images.metahub.space/poster/medium/tt0116705/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0117218",
+      "type": "movie",
+      "name": "The Nutty Professor",
+      "poster": "https://images.metahub.space/poster/medium/tt0117218/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0118998",
+      "type": "movie",
+      "name": "Dr. Dolittle",
+      "poster": "https://images.metahub.space/poster/medium/tt0118998/img",
+      "posterShape": "poster"
     }
   ]
 }

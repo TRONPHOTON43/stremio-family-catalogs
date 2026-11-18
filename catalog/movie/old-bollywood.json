@@ -21,7 +21,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0172684/img",
       "posterShape": "poster",
       "releaseInfo": "1998",
-      "description": "SRK, Kajol, and Rani — pure 90s nostalgia.",
+      "description": "SRK, Kajol, and Rani \u2014 pure 90s nostalgia.",
       "genres": [
         "Bollywood",
         "Drama",
@@ -31,7 +31,7 @@
     {
       "id": "tt0248126",
       "type": "movie",
-      "name": "Kabhi Khushi Kabhie Gham…",
+      "name": "Kabhi Khushi Kabhie Gham\u2026",
       "poster": "https://images.metahub.space/poster/medium/tt0248126/img",
       "posterShape": "poster",
       "releaseInfo": "2001",
@@ -169,10 +169,10 @@
       ]
     },
     {
-      "id": "tt0110219",
+      "id": "tt0110076",
       "type": "movie",
       "name": "Hum Aapke Hain Koun..!",
-      "poster": "https://images.metahub.space/poster/medium/tt0110219/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0110076/img",
       "posterShape": "poster",
       "releaseInfo": "1994",
       "description": "The wedding film that defined 90s Bollywood.",
@@ -183,10 +183,10 @@
       ]
     },
     {
-      "id": "tt0326980",
+      "id": "tt0238936",
       "type": "movie",
       "name": "Devdas",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Devdas_%282002_Hindi_film%29.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt0238936/img",
       "posterShape": "poster",
       "releaseInfo": "2002",
       "description": "SRK's grand, tragic romance.",
@@ -204,20 +204,6 @@
       "posterShape": "poster",
       "releaseInfo": "2003",
       "description": "New York, friendship, and a famous title song.",
-      "genres": [
-        "Bollywood",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0367110",
-      "type": "movie",
-      "name": "Swades",
-      "poster": "https://images.metahub.space/poster/medium/tt0367110/img",
-      "posterShape": "poster",
-      "releaseInfo": "2004",
-      "description": "A NASA engineer rediscovers home.",
       "genres": [
         "Bollywood",
         "Drama",
@@ -279,6 +265,118 @@
         "Drama",
         "Romance"
       ]
+    },
+    {
+      "id": "tt0118983",
+      "type": "movie",
+      "name": "Dil To Pagal Hai",
+      "poster": "https://images.metahub.space/poster/medium/tt0118983/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0150992",
+      "type": "movie",
+      "name": "Hum Dil De Chuke Sanam",
+      "poster": "https://images.metahub.space/poster/medium/tt0150992/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0213890",
+      "type": "movie",
+      "name": "Mohabbatein",
+      "poster": "https://images.metahub.space/poster/medium/tt0213890/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0449999",
+      "type": "movie",
+      "name": "Kabhi Alvida Naa Kehna",
+      "poster": "https://images.metahub.space/poster/medium/tt0449999/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1024943",
+      "type": "movie",
+      "name": "Om Shanti Om",
+      "poster": "https://images.metahub.space/poster/medium/tt1024943/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1093370",
+      "type": "movie",
+      "name": "Jab We Met",
+      "poster": "https://images.metahub.space/poster/medium/tt1093370/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2356180",
+      "type": "movie",
+      "name": "Bhaag Milkha Bhaag",
+      "poster": "https://images.metahub.space/poster/medium/tt2356180/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2178470",
+      "type": "movie",
+      "name": "Yeh Jawaani Hai Deewani",
+      "poster": "https://images.metahub.space/poster/medium/tt2178470/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2082197",
+      "type": "movie",
+      "name": "Barfi!",
+      "poster": "https://images.metahub.space/poster/medium/tt2082197/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3322420",
+      "type": "movie",
+      "name": "Queen",
+      "poster": "https://images.metahub.space/poster/medium/tt3322420/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt3863552",
+      "type": "movie",
+      "name": "Bajrangi Bhaijaan",
+      "poster": "https://images.metahub.space/poster/medium/tt3863552/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4832640",
+      "type": "movie",
+      "name": "Sultan",
+      "poster": "https://images.metahub.space/poster/medium/tt4832640/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt4559006",
+      "type": "movie",
+      "name": "Ae Dil Hai Mushkil",
+      "poster": "https://images.metahub.space/poster/medium/tt4559006/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt5946128",
+      "type": "movie",
+      "name": "Dear Zindagi",
+      "poster": "https://images.metahub.space/poster/medium/tt5946128/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1821480",
+      "type": "movie",
+      "name": "Kahaani",
+      "poster": "https://images.metahub.space/poster/medium/tt1821480/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt2181931",
+      "type": "movie",
+      "name": "English Vinglish",
+      "poster": "https://images.metahub.space/poster/medium/tt2181931/img",
+      "posterShape": "poster"
     }
   ]
 }

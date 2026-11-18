@@ -85,10 +85,10 @@
       ]
     },
     {
-      "id": "tt0315324",
+      "id": "tt0315327",
       "type": "movie",
       "name": "Bruce Almighty",
-      "poster": "https://images.metahub.space/poster/medium/tt0315324/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0315327/img",
       "posterShape": "poster",
       "releaseInfo": "2003",
       "description": "Jim Carrey gets God's job for a week.",
@@ -139,7 +139,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0091042/img",
       "posterShape": "poster",
       "releaseInfo": "1986",
-      "description": "Life moves pretty fast…",
+      "description": "Life moves pretty fast\u2026",
       "genres": [
         "Comedy"
       ]
@@ -163,7 +163,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0103241/img",
       "posterShape": "poster",
       "releaseInfo": "1991",
-      "description": "Bill Murray takes baby steps — into his therapist's vacation.",
+      "description": "Bill Murray takes baby steps \u2014 into his therapist's vacation.",
       "genres": [
         "Comedy"
       ]
@@ -181,10 +181,10 @@
       ]
     },
     {
-      "id": "tt0111073",
+      "id": "tt0111070",
       "type": "movie",
       "name": "The Santa Clause",
-      "poster": "https://images.metahub.space/poster/medium/tt0111073/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0111070/img",
       "posterShape": "poster",
       "releaseInfo": "1994",
       "description": "Tim Allen accidentally becomes Santa.",
@@ -239,6 +239,111 @@
       "genres": [
         "Comedy"
       ]
+    },
+    {
+      "id": "tt0080487",
+      "type": "movie",
+      "name": "Caddyshack",
+      "poster": "https://images.metahub.space/poster/medium/tt0080487/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0093748",
+      "type": "movie",
+      "name": "Planes, Trains and Automobiles",
+      "poster": "https://images.metahub.space/poster/medium/tt0093748/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0098554",
+      "type": "movie",
+      "name": "Uncle Buck",
+      "poster": "https://images.metahub.space/poster/medium/tt0098554/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0094898",
+      "type": "movie",
+      "name": "Coming to America",
+      "poster": "https://images.metahub.space/poster/medium/tt0094898/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0086465",
+      "type": "movie",
+      "name": "Trading Places",
+      "poster": "https://images.metahub.space/poster/medium/tt0086465/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0086960",
+      "type": "movie",
+      "name": "Beverly Hills Cop",
+      "poster": "https://images.metahub.space/poster/medium/tt0086960/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0077975",
+      "type": "movie",
+      "name": "Animal House",
+      "poster": "https://images.metahub.space/poster/medium/tt0077975/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0083131",
+      "type": "movie",
+      "name": "Stripes",
+      "poster": "https://images.metahub.space/poster/medium/tt0083131/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0079367",
+      "type": "movie",
+      "name": "The Jerk",
+      "poster": "https://images.metahub.space/poster/medium/tt0079367/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0080339",
+      "type": "movie",
+      "name": "Airplane!",
+      "poster": "https://images.metahub.space/poster/medium/tt0080339/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0109040",
+      "type": "movie",
+      "name": "Ace Ventura: Pet Detective",
+      "poster": "https://images.metahub.space/poster/medium/tt0109040/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0120382",
+      "type": "movie",
+      "name": "The Truman Show",
+      "poster": "https://images.metahub.space/poster/medium/tt0120382/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0129387",
+      "type": "movie",
+      "name": "There's Something About Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt0129387/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0151804",
+      "type": "movie",
+      "name": "Office Space",
+      "poster": "https://images.metahub.space/poster/medium/tt0151804/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0196229",
+      "type": "movie",
+      "name": "Zoolander",
+      "poster": "https://images.metahub.space/poster/medium/tt0196229/img",
+      "posterShape": "poster"
     }
   ]
 }

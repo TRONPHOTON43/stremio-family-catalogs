@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0043206",
+      "id": "tt0043208",
       "type": "series",
       "name": "I Love Lucy",
-      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/I_Love_Lucy_title.svg/960px-I_Love_Lucy_title.svg.png",
-      "posterShape": "landscape",
+      "poster": "https://images.metahub.space/poster/medium/tt0043208/img",
+      "posterShape": "poster",
       "releaseInfo": "1951",
       "description": "Lucille Ball, the queen of it all.",
       "genres": [
@@ -20,7 +20,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0042114/img",
       "posterShape": "poster",
       "releaseInfo": "1955",
-      "description": "“To the moon, Alice!” — Jackie Gleason.",
+      "description": "\u201cTo the moon, Alice!\u201d \u2014 Jackie Gleason.",
       "genres": [
         "Comedy",
         "Classic TV"
@@ -66,10 +66,10 @@
       ]
     },
     {
-      "id": "tt0055669",
+      "id": "tt0055662",
       "type": "series",
       "name": "The Beverly Hillbillies",
-      "poster": "https://images.metahub.space/poster/medium/tt0055669/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0055662/img",
       "posterShape": "poster",
       "releaseInfo": "1962",
       "description": "The Clampetts strike oil, move to Beverly Hills.",
@@ -79,10 +79,10 @@
       ]
     },
     {
-      "id": "tt0057731",
+      "id": "tt0057733",
       "type": "series",
       "name": "Bewitched",
-      "poster": "https://images.metahub.space/poster/medium/tt0057731/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0057733/img",
       "posterShape": "poster",
       "releaseInfo": "1964",
       "description": "Samantha twitches her nose.",
@@ -92,13 +92,13 @@
       ]
     },
     {
-      "id": "tt0057736",
+      "id": "tt0057751",
       "type": "series",
       "name": "Gilligan's Island",
-      "poster": "https://images.metahub.space/poster/medium/tt0057736/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0057751/img",
       "posterShape": "poster",
       "releaseInfo": "1964",
-      "description": "A three-hour tour…",
+      "description": "A three-hour tour\u2026",
       "genres": [
         "Comedy",
         "Classic TV"
@@ -137,7 +137,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0068098/img",
       "posterShape": "poster",
       "releaseInfo": "1972",
-      "description": "Hawkeye and the 4077th — funny and moving.",
+      "description": "Hawkeye and the 4077th \u2014 funny and moving.",
       "genres": [
         "Comedy",
         "Classic TV"
@@ -157,10 +157,10 @@
       ]
     },
     {
-      "id": "tt0058816",
+      "id": "tt0058812",
       "type": "series",
       "name": "Hogan's Heroes",
-      "poster": "https://images.metahub.space/poster/medium/tt0058816/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0058812/img",
       "posterShape": "poster",
       "releaseInfo": "1965",
       "description": "POWs running rings around the guards.",
@@ -176,7 +176,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt0058805/img",
       "posterShape": "poster",
       "releaseInfo": "1965",
-      "description": "Maxwell Smart, Agent 86 — “Missed it by that much.”",
+      "description": "Maxwell Smart, Agent 86 \u2014 \u201cMissed it by that much.\u201d",
       "genres": [
         "Comedy",
         "Classic TV"
@@ -235,10 +235,10 @@
       ]
     },
     {
-      "id": "tt0073469",
+      "id": "tt0074016",
       "type": "series",
       "name": "Laverne & Shirley",
-      "poster": "https://images.metahub.space/poster/medium/tt0073469/img",
+      "poster": "https://images.metahub.space/poster/medium/tt0074016/img",
       "posterShape": "poster",
       "releaseInfo": "1976",
       "description": "Two Milwaukee bottlecappers chase their dreams.",
@@ -254,11 +254,116 @@
       "poster": "https://images.metahub.space/poster/medium/tt0077089/img",
       "posterShape": "poster",
       "releaseInfo": "1978",
-      "description": "The Sunshine Cab Company — an all-star cast.",
+      "description": "The Sunshine Cab Company \u2014 an all-star cast.",
       "genres": [
         "Comedy",
         "Classic TV"
       ]
+    },
+    {
+      "id": "tt0047763",
+      "type": "series",
+      "name": "The Phil Silvers Show",
+      "poster": "https://images.metahub.space/poster/medium/tt0047763/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0051267",
+      "type": "series",
+      "name": "The Donna Reed Show",
+      "poster": "https://images.metahub.space/poster/medium/tt0051267/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0046600",
+      "type": "series",
+      "name": "Father Knows Best",
+      "poster": "https://images.metahub.space/poster/medium/tt0046600/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0053502",
+      "type": "series",
+      "name": "The Flintstones",
+      "poster": "https://images.metahub.space/poster/medium/tt0053502/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0055683",
+      "type": "series",
+      "name": "The Jetsons",
+      "poster": "https://images.metahub.space/poster/medium/tt0055683/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0053525",
+      "type": "series",
+      "name": "My Three Sons",
+      "poster": "https://images.metahub.space/poster/medium/tt0053525/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0057729",
+      "type": "series",
+      "name": "The Addams Family",
+      "poster": "https://images.metahub.space/poster/medium/tt0057729/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0057773",
+      "type": "series",
+      "name": "The Munsters",
+      "poster": "https://images.metahub.space/poster/medium/tt0057773/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0058800",
+      "type": "series",
+      "name": "F Troop",
+      "poster": "https://images.metahub.space/poster/medium/tt0058800/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0057752",
+      "type": "series",
+      "name": "Gomer Pyle, USMC",
+      "poster": "https://images.metahub.space/poster/medium/tt0057752/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0060010",
+      "type": "series",
+      "name": "The Monkees",
+      "poster": "https://images.metahub.space/poster/medium/tt0060010/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0061240",
+      "type": "series",
+      "name": "The Carol Burnett Show",
+      "poster": "https://images.metahub.space/poster/medium/tt0061240/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0068049",
+      "type": "series",
+      "name": "The Bob Newhart Show",
+      "poster": "https://images.metahub.space/poster/medium/tt0068049/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0072472",
+      "type": "series",
+      "name": "Barney Miller",
+      "poster": "https://images.metahub.space/poster/medium/tt0072472/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0065329",
+      "type": "series",
+      "name": "The Odd Couple",
+      "poster": "https://images.metahub.space/poster/medium/tt0065329/img",
+      "posterShape": "poster"
     }
   ]
 }
