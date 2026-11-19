@@ -17,16 +17,6 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "trending",
-      "name": "Trending"
-    },
-    {
-      "type": "series",
-      "id": "trending",
-      "name": "Trending"
-    },
-    {
-      "type": "movie",
       "id": "old-bollywood",
       "name": "Old Bollywood"
     },
@@ -34,6 +24,16 @@
       "type": "movie",
       "id": "new-bollywood",
       "name": "New Bollywood"
+    },
+    {
+      "type": "movie",
+      "id": "trending",
+      "name": "Trending"
+    },
+    {
+      "type": "series",
+      "id": "trending",
+      "name": "Trending"
     },
     {
       "type": "movie",
